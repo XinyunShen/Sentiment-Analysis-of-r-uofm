@@ -1,0 +1,138 @@
+comment,Class,positive
+comment,Class,neutral
+comment,Class,positive
+comment,Class,positive
+comment,Class,positive
+post,COVID-19,positive
+comment,COVID-19,neutral
+comment,COVID-19,positive
+post,Class,positive
+comment,Class,neutral
+comment,Class,positive
+post,Class,positive
+comment,Class,neutral
+comment,Class,positive
+comment,Class,neutral
+comment,Class,positive
+post,New Student,positive
+comment,New Student,neutral
+comment,New Student,positive
+comment,New Student,positive
+comment,New Student,positive
+comment,New Student,positive
+comment,New Student,positive
+comment,New Student,positive
+comment,New Student,neutral
+post,Prospective Student,neutral
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+post,Finances,neutral
+comment,Finances,positive
+comment,Finances,positive
+comment,Finances,positive
+comment,Finances,positive
+post,Academics - Other Topics,positive
+comment,Academics - Other Topics,positive
+post,Class,positive
+comment,Class,positive
+comment,Class,positive
+comment,Class,positive
+post,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+post,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+post,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+comment,Prospective Student,positive
+post,Employment,positive
+comment,Employment,positive
+post,Housing,positive
+comment,Housing,neutral
+comment,Housing,neutral
+post,Degree,positive
+comment,Degree,positive
+post,Buy / Sell,neutral
+comment,Buy / Sell,positive
+comment,Buy / Sell,positive
+comment,Buy / Sell,positive
+post,COVID-19,positive
+comment,COVID-19,neutral
+comment,COVID-19,neutral
+comment,COVID-19,positive
+post,Social,positive
+comment,Social,negative
+comment,Social,positive
+post,Housing,positive
+comment,Housing,positive
+comment,Housing,neutral
+comment,Housing,positive
+post,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+post,COVID-19,positive
+comment,COVID-19,positive
+comment,COVID-19,neutral
+comment,COVID-19,neutral
+comment,COVID-19,positive
+post,Class,positive
+comment,Class,positive
+comment,Class,neutral
+comment,Class,positive
+comment,Class,positive
+comment,Class,positive
+comment,Class,positive
+post,Finances,positive
+comment,Finances,positive
+post,Food / Culture,positive
+comment,Food / Culture,positive
+comment,Food / Culture,positive
+comment,Food / Culture,positive
+comment,Food / Culture,positive
+comment,Food / Culture,positive
+comment,Food / Culture,positive
+post,Class,positive
+comment,Class,positive
+comment,Class,positive
+comment,Class,positive
+post,None,positive
+comment,None,positive
+comment,None,negative
+post,Class,positive
+comment,Class,positive
+post,Food / Culture,positive
+comment,Food / Culture,negative
+comment,Food / Culture,positive
+post,Food / Culture,positive
+comment,Food / Culture,positive
+post,Prospective Student,positive
+comment,Prospective Student,neutral
+comment,Prospective Student,neutral
+comment,Prospective Student,positive
+post,Housing,positive
+comment,Housing,neutral
+comment,Housing,positive
+comment,Housing,positive
+post,Media,positive
+comment,Media,negative
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,neutral
+comment,Media,positive
+comment,Media,positive
+comment,Media,positive
+comment,Media,neutral
+comment,Media,positive

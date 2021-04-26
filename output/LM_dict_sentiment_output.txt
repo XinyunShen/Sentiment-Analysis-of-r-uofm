@@ -1,0 +1,5038 @@
+post,Health / Wellness,0
+post,Finances,0
+comment,Finances,0
+post,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Class,0
+comment,Class,-1.0
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,Class,0
+comment,Class,1.0
+post,Employment,0
+comment,Employment,0.0
+post,Media,0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0.0
+post,Social,1.0
+comment,Social,0
+comment,Social,1.0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+post,Housing,1.0
+post,Degree,0
+comment,Degree,0
+post,Class,0.0
+comment,Class,0.0
+post,Degree,1.0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0
+post,Finances,-1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Meme,0
+post,New Student,1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,1.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,0.3333333333333333
+post,New Student,-0.7142857142857143
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,1.0
+post,Prospective Student,1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,COVID-19,-1.0
+comment,COVID-19,1.0
+post,Class,0.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0.0
+comment,Class,-0.3333333333333333
+post,Miscellaneous,-0.14285714285714285
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-0.2
+comment,Miscellaneous,0
+comment,Miscellaneous,0.3333333333333333
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,New Student,-1.0
+comment,New Student,1.0
+comment,New Student,0.0
+comment,New Student,1.0
+post,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+comment,Finances,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Degree,0
+comment,Degree,-0.5555555555555556
+comment,Degree,0
+comment,Degree,0
+post,Class,0
+comment,Class,1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,COVID-19,-1.0
+post,None,0
+comment,None,0
+comment,None,0
+comment,None,-0.3333333333333333
+comment,None,0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+post,Parking,-1.0
+comment,Parking,0
+comment,Parking,0
+comment,Parking,0
+post,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Research,0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+post,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+post,Media,-0.3333333333333333
+post,Employment,0
+comment,Employment,0
+post,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.75
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6666666666666666
+comment,Prospective Student,0
+post,Social,-1.0
+comment,Social,-1.0
+comment,Social,0
+comment,Social,-0.3333333333333333
+comment,Social,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,-0.8
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-0.3333333333333333
+comment,Meme,0.3333333333333333
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,-1.0
+post,Prospective Student,0
+comment,Prospective Student,0.5555555555555556
+comment,Prospective Student,1.0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Housing,0.0
+comment,Housing,0
+comment,Housing,0.0
+comment,Housing,0.0
+post,Class,-0.5
+comment,Class,0.0
+comment,Class,-0.2
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Event,1.0
+comment,Event,0
+comment,Event,-1.0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+post,Sports,0
+comment,Sports,0
+post,Student Organization,0
+comment,Student Organization,-1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Miscellaneous,0.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0.6
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Degree,0
+comment,Degree,-0.3333333333333333
+comment,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,-1.0
+comment,Degree,0
+post,Degree,0
+comment,Degree,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0.3333333333333333
+comment,Housing,0
+comment,Housing,0
+post,PSA,0.07692307692307693
+comment,PSA,0
+comment,PSA,-1.0
+comment,PSA,1.0
+comment,PSA,-1.0
+comment,PSA,0
+comment,PSA,1.0
+comment,PSA,1.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0.45454545454545453
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.6363636363636364
+comment,Prospective Student,1.0
+post,Degree,0.0
+comment,Degree,0.1111111111111111
+comment,Degree,-1.0
+post,Parking,0
+comment,Parking,0
+comment,Parking,-1.0
+post,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,0
+post,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+post,Media,0
+comment,Media,1.0
+comment,Media,0
+post,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Prospective Student,0
+comment,Prospective Student,0.2
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Class,-1.0
+comment,Class,1.0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Employment,1.0
+comment,Employment,1.0
+comment,Employment,0
+post,Research,0.0
+comment,Research,1.0
+comment,Research,0
+post,Class,-0.3333333333333333
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,1.0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0.6
+post,Housing,1.0
+comment,Housing,-1.0
+comment,Housing,0.2
+comment,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,0.0
+post,Prospective Student,0.2
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.6
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,COVID-19,-1.0
+comment,COVID-19,0
+post,Prospective Student,0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+post,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.14285714285714285
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-0.6
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+post,Class,0.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,Student Organization,1.0
+comment,Student Organization,1.0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.25
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.5
+post,Student Organization,1.0
+comment,Student Organization,-0.3333333333333333
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,-0.3333333333333333
+post,Student Organization,0
+comment,Student Organization,-0.5
+post,Miscellaneous,0
+comment,Miscellaneous,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.2
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Employment,-0.2
+comment,Employment,-0.3333333333333333
+comment,Employment,-1.0
+comment,Employment,-1.0
+comment,Employment,0.2
+comment,Employment,0.0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,0.6666666666666666
+comment,Employment,0.0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Class,1.0
+comment,Class,1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Degree,0.0
+comment,Degree,0.0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0
+post,Food / Culture,1.0
+post,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,-1.0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,-0.5
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Student Organization,-1.0
+comment,Student Organization,-1.0
+post,Media,0
+post,Class,-1.0
+post,Class,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Degree,0
+comment,Degree,-1.0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0.5
+comment,Degree,0
+post,Student Organization,0
+comment,Student Organization,0.3333333333333333
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+post,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Prospective Student,0
+post,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,Finances,-1.0
+comment,Finances,0
+comment,Finances,0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0.2
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Prospective Student,0.5
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,-1.0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0.2
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+post,Class,-1.0
+comment,Class,-1.0
+post,Event,0.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Event,0
+post,Meme,0
+comment,Meme,-1.0
+comment,Meme,-0.3333333333333333
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Miscellaneous,0
+post,Housing,0
+comment,Housing,0
+post,Miscellaneous,0
+comment,Miscellaneous,1.0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+post,Research,-1.0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+post,Class,0
+comment,Class,0
+comment,Class,0
+post,New Student,-1.0
+comment,New Student,0.3333333333333333
+comment,New Student,0.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+post,Research,0
+comment,Research,0
+comment,Research,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+post,New Student,-1.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,-0.38461538461538464
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,0.0
+comment,New Student,0.6666666666666666
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,-0.5
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,-1.0
+comment,New Student,0.5
+comment,New Student,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Food / Culture,0
+comment,Food / Culture,0.0
+post,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+post,Satellite Campus,0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+post,Social,1.0
+comment,Social,1.0
+comment,Social,-1.0
+comment,Social,0
+comment,Social,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Sports,0
+comment,Sports,0
+post,Satellite Campus,0
+comment,Satellite Campus,0.0
+comment,Satellite Campus,0.2
+comment,Satellite Campus,1.0
+post,Student Organization,0
+comment,Student Organization,-0.3333333333333333
+comment,Student Organization,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Sports,0.0
+comment,Sports,0.0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0.3333333333333333
+post,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.7142857142857143
+comment,Prospective Student,0
+post,Prospective Student,-0.5
+post,Media,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,-1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Housing,-1.0
+comment,Housing,0.0
+comment,Housing,0
+comment,Housing,0.0
+post,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,News,0
+comment,News,-1.0
+comment,News,-1.0
+comment,News,-1.0
+comment,News,0
+post,Prospective Student,-0.6
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,Employment,0
+comment,Employment,1.0
+comment,Employment,0
+post,Prospective Student,-1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.2
+comment,Prospective Student,0
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.0
+post,Miscellaneous,-0.6
+comment,Miscellaneous,-1.0
+post,Sports,-1.0
+post,Degree,0
+comment,Degree,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0.0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Housing,1.0
+comment,Housing,1.0
+comment,Housing,1.0
+comment,Housing,1.0
+post,Meme,0
+comment,Meme,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Meme,-1.0
+post,Student Organization,0
+comment,Student Organization,1.0
+comment,Student Organization,0
+post,Meme,-0.3333333333333333
+post,Meme,0
+comment,Meme,0
+comment,Meme,0.0
+comment,Meme,-1.0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Parking,0
+comment,Parking,0
+post,News,0
+comment,News,-1.0
+post,COVID-19,0
+post,Meme,1.0
+comment,Meme,0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0.3333333333333333
+post,Meme,-1.0
+post,Meme,0
+comment,Meme,0
+post,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Meta,0
+comment,Meta,0
+comment,Meta,-1.0
+comment,Meta,-1.0
+comment,Meta,0
+comment,Meta,-1.0
+comment,Meta,0
+comment,Meta,0
+comment,Meta,0
+post,Degree,1.0
+comment,Degree,0
+post,New Student,-1.0
+comment,New Student,-0.2
+comment,New Student,1.0
+comment,New Student,0.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,-0.5
+comment,Prospective Student,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-0.3333333333333333
+comment,Academics - Other Topics,-1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Research,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+post,Social,-0.6666666666666666
+comment,Social,0
+post,Housing,-1.0
+comment,Housing,-1.0
+post,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,Prospective Student,0.2
+comment,Prospective Student,-0.16666666666666666
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.7777777777777778
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.6
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,COVID-19,0
+comment,COVID-19,0
+post,Finances,0
+comment,Finances,0.0
+comment,Finances,0.3333333333333333
+comment,Finances,0
+comment,Finances,0.7142857142857143
+comment,Finances,1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Student Organization,-1.0
+comment,Student Organization,-1.0
+comment,Student Organization,0
+post,Prospective Student,1.0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,-0.6
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,Sports,0
+comment,Sports,0
+post,Sports,0.0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+post,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Finances,0
+comment,Finances,0
+post,Finances,-1.0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,-1.0
+comment,Finances,-1.0
+post,Degree,0
+comment,Degree,-1.0
+post,PSA,-1.0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-0.3333333333333333
+post,Degree,0.0
+comment,Degree,1.0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+post,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,0
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Prospective Student,1.0
+comment,Prospective Student,0.6
+post,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Parking,0
+comment,Parking,0
+comment,Parking,0
+comment,Parking,0
+comment,Parking,-0.2
+comment,Parking,-0.6666666666666666
+comment,Parking,0
+comment,Parking,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+post,Health / Wellness,-0.42857142857142855
+comment,Health / Wellness,-0.6
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-0.42857142857142855
+comment,Health / Wellness,0
+comment,Health / Wellness,-0.7142857142857143
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.1111111111111111
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+post,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,News,0
+comment,News,-0.3333333333333333
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+post,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,0
+post,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.3333333333333333
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Prospective Student,0.6666666666666666
+comment,Prospective Student,0.3333333333333333
+post,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+post,Housing,0.0
+comment,Housing,-1.0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,-1.0
+comment,Housing,0
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+post,Sports,1.0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Class,-1.0
+comment,Class,0
+post,Prospective Student,-0.2
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.42857142857142855
+comment,Prospective Student,1.0
+post,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Prospective Student,1.0
+comment,Prospective Student,0.3333333333333333
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Housing,0
+comment,Housing,0.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0
+post,Health / Wellness,-0.5
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,1.0
+post,Event,0
+comment,Event,-1.0
+comment,Event,0
+comment,Event,1.0
+comment,Event,0
+post,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+post,Prospective Student,0
+comment,Prospective Student,0.5
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.5
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Housing,0.0
+comment,Housing,1.0
+comment,Housing,-1.0
+comment,Housing,-0.5
+comment,Housing,-0.3333333333333333
+comment,Housing,-1.0
+post,Prospective Student,1.0
+post,Degree,-1.0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,1.0
+post,Satellite Campus,1.0
+comment,Satellite Campus,1.0
+post,Event,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Meme,0
+comment,Meme,-1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,New Student,0
+comment,New Student,0.2
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,New Student,1.0
+comment,New Student,-0.2
+comment,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,-1.0
+post,Prospective Student,0
+post,News,0
+comment,News,0
+comment,News,0
+comment,News,-1.0
+comment,News,-1.0
+comment,News,1.0
+comment,News,0
+comment,News,0
+comment,News,-1.0
+comment,News,-1.0
+post,Prospective Student,-0.2
+comment,Prospective Student,1.0
+comment,Prospective Student,0.6666666666666666
+post,Finances,-1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Degree,0.0
+comment,Degree,0
+post,Housing,1.0
+comment,Housing,0.0
+post,Class,-1.0
+comment,Class,-1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+comment,Meme,1.0
+post,Degree,0
+comment,Degree,1.0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,1.0
+comment,Degree,1.0
+post,New Student,0.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,1.0
+comment,New Student,0.0
+comment,New Student,-1.0
+comment,New Student,0.0
+comment,New Student,0.0
+comment,New Student,-1.0
+comment,New Student,0.0
+comment,New Student,-0.14285714285714285
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,-0.42857142857142855
+comment,New Student,1.0
+comment,New Student,1.0
+comment,New Student,0.3333333333333333
+comment,New Student,1.0
+comment,New Student,1.0
+comment,New Student,-1.0
+comment,New Student,1.0
+comment,New Student,0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,1.0
+comment,Degree,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,-0.3333333333333333
+comment,Degree,1.0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+post,Event,0.6666666666666666
+comment,Event,1.0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+post,Class,-0.2
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,PSA,0
+comment,PSA,0
+comment,PSA,-1.0
+post,Finances,0
+comment,Finances,0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+post,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,1.0
+comment,Sports,0
+post,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-1.0
+post,Meme,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,-0.3333333333333333
+comment,Housing,0
+comment,Housing,1.0
+post,Student Organization,1.0
+comment,Student Organization,0
+comment,Student Organization,0.3333333333333333
+post,Class,0
+comment,Class,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,Media,0
+post,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0.0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,-0.5
+comment,Miscellaneous,0
+comment,Miscellaneous,-0.5
+comment,Miscellaneous,-0.5
+comment,Miscellaneous,1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,New Student,-0.7777777777777778
+comment,New Student,0.5
+comment,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,-0.16666666666666666
+comment,New Student,0.0
+comment,New Student,-0.5
+comment,New Student,-1.0
+comment,New Student,-0.2
+comment,New Student,-0.6
+comment,New Student,1.0
+comment,New Student,-0.3333333333333333
+comment,New Student,0.0
+comment,New Student,-0.3333333333333333
+comment,New Student,1.0
+comment,New Student,-0.6
+comment,New Student,0
+comment,New Student,-0.3333333333333333
+comment,New Student,-1.0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,None,0
+comment,None,-1.0
+comment,None,-0.6
+comment,None,0
+comment,None,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.2
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+post,Sports,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Class,0
+post,Satellite Campus,0
+comment,Satellite Campus,0
+post,Finances,0
+comment,Finances,0.42857142857142855
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,-0.14285714285714285
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+post,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,New Student,0
+comment,New Student,1.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,Satellite Campus,-1.0
+comment,Satellite Campus,0
+post,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+post,COVID-19,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0.0
+post,Class,-0.7777777777777778
+comment,Class,-1.0
+comment,Class,-0.8571428571428571
+comment,Class,-1.0
+comment,Class,-0.5
+comment,Class,0
+post,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,0.0
+post,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Prospective Student,0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+post,Meme,0
+comment,Meme,0.0
+comment,Meme,0
+comment,Meme,1.0
+comment,Meme,1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+post,Sports,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,-1.0
+comment,Degree,-1.0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Class,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+post,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0.0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+post,Degree,0
+comment,Degree,0
+post,Housing,1.0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,Event,0
+comment,Event,0
+comment,Event,1.0
+comment,Event,0
+comment,Event,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,-1.0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Finances,0
+comment,Finances,1.0
+post,Employment,-1.0
+comment,Employment,1.0
+comment,Employment,-1.0
+comment,Employment,0
+comment,Employment,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+post,Prospective Student,0.6666666666666666
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Sports,0
+comment,Sports,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Class,-0.6666666666666666
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+post,New Student,1.0
+comment,New Student,0.5
+post,Miscellaneous,0.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Prospective Student,0.3333333333333333
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+post,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,1.0
+post,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Meta,-0.6666666666666666
+comment,Meta,0.0
+comment,Meta,-1.0
+comment,Meta,-0.6
+comment,Meta,0
+post,Degree,1.0
+comment,Degree,0
+comment,Degree,0.0
+comment,Degree,0
+post,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,0
+post,Social,0
+comment,Social,0
+post,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+post,Finances,-1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0.0
+comment,Finances,0.5
+post,Prospective Student,1.0
+post,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0.2
+comment,Academics - Other Topics,0
+post,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,-1.0
+post,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,0
+post,Sports,-1.0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,0
+post,Event,0
+comment,Event,-1.0
+comment,Event,-1.0
+post,Prospective Student,0
+post,New Student,0.0
+comment,New Student,1.0
+comment,New Student,-1.0
+comment,New Student,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+post,Sports,0
+post,Miscellaneous,-0.5555555555555556
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,-1.0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,-1.0
+post,Sports,0
+comment,Sports,1.0
+post,Employment,0
+comment,Employment,-1.0
+comment,Employment,0.0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-0.5
+post,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Employment,-0.5
+comment,Employment,-0.3333333333333333
+comment,Employment,-1.0
+comment,Employment,-1.0
+post,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+post,Employment,-1.0
+comment,Employment,-0.3333333333333333
+comment,Employment,-1.0
+comment,Employment,1.0
+comment,Employment,0.6
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,-1.0
+comment,Employment,-0.25
+comment,Employment,-0.2
+comment,Employment,-1.0
+comment,Employment,0
+comment,Employment,1.0
+comment,Employment,-1.0
+comment,Employment,0.0
+comment,Employment,0.3333333333333333
+comment,Employment,-1.0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Social,0.0
+comment,Social,-1.0
+comment,Social,0.0
+comment,Social,0
+comment,Social,-0.42857142857142855
+post,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,-0.3333333333333333
+post,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,New Student,-1.0
+comment,New Student,0
+post,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.5
+comment,Food / Culture,1.0
+post,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,Degree,1.0
+comment,Degree,0
+comment,Degree,1.0
+post,Academics - Other Topics,-0.5
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0.3333333333333333
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,1.0
+post,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+post,Degree,1.0
+comment,Degree,-1.0
+post,COVID-19,-1.0
+comment,COVID-19,0
+post,Finances,0
+comment,Finances,-1.0
+post,Housing,0.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+post,Housing,1.0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+post,Finances,0
+comment,Finances,1.0
+comment,Finances,0
+post,Degree,-1.0
+comment,Degree,-1.0
+comment,Degree,1.0
+post,Degree,1.0
+comment,Degree,1.0
+comment,Degree,0
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+post,Housing,0
+comment,Housing,-0.5
+comment,Housing,1.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,1.0
+post,Miscellaneous,-0.05454545454545454
+comment,Miscellaneous,1.0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.5714285714285714
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Housing,0
+comment,Housing,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0.3333333333333333
+comment,Academics - Other Topics,1.0
+post,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Finances,-1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0.3333333333333333
+comment,Finances,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+post,PSA,0.3333333333333333
+comment,PSA,-1.0
+comment,PSA,-1.0
+comment,PSA,1.0
+comment,PSA,1.0
+comment,PSA,-1.0
+comment,PSA,-1.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,-1.0
+comment,PSA,0
+comment,PSA,1.0
+comment,PSA,-1.0
+comment,PSA,0.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,-0.5
+comment,PSA,-1.0
+comment,PSA,1.0
+comment,PSA,1.0
+comment,PSA,-1.0
+comment,PSA,0
+comment,PSA,0.0
+comment,PSA,0
+comment,PSA,1.0
+comment,PSA,-1.0
+comment,PSA,-1.0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,-1.0
+comment,PSA,0
+post,Housing,-1.0
+comment,Housing,0.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,1.0
+post,Employment,1.0
+comment,Employment,0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,-1.0
+comment,Event,-1.0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+comment,Event,-1.0
+comment,Event,0
+comment,Event,0
+comment,Event,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Degree,-0.14285714285714285
+comment,Degree,-1.0
+comment,Degree,1.0
+post,Social,0.3333333333333333
+comment,Social,0
+post,Prospective Student,0.14285714285714285
+comment,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Degree,0.5
+comment,Degree,0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.2
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Degree,0.0
+comment,Degree,-1.0
+comment,Degree,-0.3333333333333333
+post,Social,-1.0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+post,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+post,Food / Culture,0
+comment,Food / Culture,0.2727272727272727
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.3333333333333333
+comment,Food / Culture,1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.3333333333333333
+comment,Food / Culture,0
+comment,Food / Culture,0
+post,Class,-0.3333333333333333
+comment,Class,-1.0
+comment,Class,0
+post,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,-0.2
+comment,Health / Wellness,-0.2
+comment,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,0
+post,Prospective Student,0
+post,Degree,0
+comment,Degree,0
+post,Housing,0
+comment,Housing,0
+post,Class,0
+comment,Class,1.0
+comment,Class,0
+post,Degree,-1.0
+comment,Degree,0
+comment,Degree,0.2
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,-1.0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Housing,-1.0
+comment,Housing,0
+post,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Class,-0.38461538461538464
+comment,Class,0
+comment,Class,-1.0
+post,Event,0.14285714285714285
+post,PSA,-1.0
+comment,PSA,1.0
+comment,PSA,0
+post,COVID-19,0
+post,Sports,0
+post,Research,-1.0
+comment,Research,-1.0
+comment,Research,-1.0
+comment,Research,-1.0
+post,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+post,Degree,1.0
+comment,Degree,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,PSA,0.3333333333333333
+post,Housing,0
+comment,Housing,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+post,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,0
+post,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+post,Finances,0
+post,Degree,1.0
+comment,Degree,0
+comment,Degree,1.0
+post,Media,0
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,1.0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0.0
+post,COVID-19,0
+post,Student Organization,0.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Employment,-1.0
+comment,Employment,-0.2
+comment,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,-1.0
+post,Food / Culture,0
+comment,Food / Culture,0
+post,Prospective Student,0.5833333333333334
+comment,Prospective Student,0.6
+comment,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,Sports,0
+comment,Sports,1.0
+comment,Sports,-1.0
+comment,Sports,0
+post,Finances,0
+comment,Finances,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Academics - Other Topics,0.1111111111111111
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.5
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.6
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,Media,0
+comment,Media,-1.0
+comment,Media,-1.0
+comment,Media,1.0
+comment,Media,0
+comment,Media,0
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,COVID-19,-0.6666666666666666
+comment,COVID-19,-0.3333333333333333
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+post,COVID-19,0
+comment,COVID-19,0
+post,Housing,-1.0
+comment,Housing,1.0
+comment,Housing,1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+post,COVID-19,0.0
+post,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,PSA,0
+comment,PSA,-1.0
+comment,PSA,1.0
+comment,PSA,0
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+post,New Student,-0.3333333333333333
+comment,New Student,0.0
+post,Class,-1.0
+comment,Class,-0.3333333333333333
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Meme,0
+post,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,COVID-19,0.3333333333333333
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Social,1.0
+comment,Social,0.0
+comment,Social,0.0
+comment,Social,1.0
+comment,Social,-1.0
+comment,Social,0
+comment,Social,-1.0
+comment,Social,0.0
+comment,Social,1.0
+comment,Social,0
+comment,Social,0
+comment,Social,0.3333333333333333
+comment,Social,0
+post,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,Employment,0
+post,Sports,0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+post,COVID-19,-0.3333333333333333
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0.5
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0.0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,-0.3333333333333333
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,-1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0.4
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+post,Class,0
+comment,Class,0
+comment,Class,0
+post,Media,0
+post,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Degree,0
+post,COVID-19,-0.8333333333333334
+comment,COVID-19,0.0
+post,Academics - Other Topics,0
+post,News,0
+comment,News,1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Food / Culture,1.0
+comment,Food / Culture,0.3333333333333333
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.6
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0.0
+post,Class,0.0
+comment,Class,0
+comment,Class,-1.0
+post,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+post,Sports,1.0
+comment,Sports,0
+post,Prospective Student,0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-1.0
+comment,Prospective Student,-0.3333333333333333
+post,Media,0
+post,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,0
+post,Sports,0
+comment,Sports,0.5
+comment,Sports,0
+comment,Sports,0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0.25
+comment,Miscellaneous,0.14285714285714285
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0.3333333333333333
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0.42857142857142855
+comment,Miscellaneous,0.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+post,Food / Culture,0
+comment,Food / Culture,0.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-0.5
+comment,Food / Culture,-1.0
+comment,Food / Culture,0.7777777777777778
+comment,Food / Culture,0.5
+comment,Food / Culture,-0.3333333333333333
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,0.6666666666666666
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0.2
+comment,Food / Culture,0.0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+comment,Food / Culture,-0.3333333333333333
+comment,Food / Culture,-1.0
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-0.3333333333333333
+post,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-0.7777777777777778
+comment,Class,0.5
+comment,Class,0.0
+comment,Class,-1.0
+post,New Student,-0.6
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,-1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Class,0
+post,Satellite Campus,-1.0
+comment,Satellite Campus,-1.0
+comment,Satellite Campus,-0.3333333333333333
+comment,Satellite Campus,-1.0
+post,New Student,0
+comment,New Student,1.0
+comment,New Student,-0.2
+comment,New Student,0.6666666666666666
+comment,New Student,1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+post,Meme,0
+comment,Meme,0
+post,Miscellaneous,0
+comment,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,1.0
+comment,Miscellaneous,-1.0
+post,New Student,-1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Prospective Student,-0.2
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,0.0
+post,Degree,-1.0
+comment,Degree,0
+post,Event,1.0
+post,New Student,-1.0
+comment,New Student,-0.5
+comment,New Student,-0.6666666666666666
+comment,New Student,0.0
+comment,New Student,0.0
+comment,New Student,-1.0
+comment,New Student,0.0
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+post,Finances,0
+comment,Finances,-1.0
+post,Class,0
+comment,Class,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.5
+comment,Prospective Student,0.6923076923076923
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0.3333333333333333
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0.2
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,-1.0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,New Student,1.0
+comment,New Student,1.0
+comment,New Student,0
+post,Student Organization,0
+comment,Student Organization,0.0
+comment,Student Organization,1.0
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,1.0
+comment,Student Organization,-1.0
+comment,Student Organization,0.3333333333333333
+comment,Student Organization,0
+post,New Student,0
+comment,New Student,-1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Housing,0
+comment,Housing,0.0
+comment,Housing,-1.0
+post,Sports,0
+post,None,0
+comment,None,0
+comment,None,0
+comment,None,0
+comment,None,0
+post,Sports,0
+comment,Sports,1.0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,-0.6666666666666666
+comment,Sports,-1.0
+comment,Sports,-1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+comment,Sports,0.3333333333333333
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+post,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,-1.0
+post,Event,0
+post,Student Organization,1.0
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,-1.0
+comment,Student Organization,0.0
+comment,Student Organization,0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0.75
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.7142857142857143
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+post,Sports,0
+post,Class,-0.25
+comment,Class,0.0
+comment,Class,-1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,-1.0
+comment,Meme,1.0
+comment,Meme,-0.6
+comment,Meme,-0.75
+comment,Meme,0
+comment,Meme,-1.0
+post,Class,0
+comment,Class,0
+comment,Class,-1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,0
+comment,Employment,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,1.0
+post,Class,0
+comment,Class,-0.6666666666666666
+comment,Class,0.0
+comment,Class,-0.5555555555555556
+comment,Class,0.3333333333333333
+comment,Class,0
+comment,Class,-0.2
+comment,Class,-1.0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Degree,-1.0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+post,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-0.7142857142857143
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.5
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.3333333333333333
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0.3333333333333333
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+post,Health / Wellness,0.0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-0.3333333333333333
+post,Miscellaneous,-0.5
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Class,0.0
+comment,Class,-0.1111111111111111
+comment,Class,-0.07692307692307693
+comment,Class,-1.0
+comment,Class,-0.6
+comment,Class,0
+post,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-0.6666666666666666
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+post,Employment,-0.3333333333333333
+comment,Employment,0
+comment,Employment,-1.0
+comment,Employment,-1.0
+comment,Employment,0
+post,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0.3333333333333333
+comment,Class,-0.5555555555555556
+comment,Class,0.3333333333333333
+comment,Class,0
+comment,Class,0
+comment,Class,0.0
+comment,Class,-0.7777777777777778
+comment,Class,-1.0
+comment,Class,-1.0
+post,Employment,0
+comment,Employment,0
+post,Social,-1.0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,1.0
+comment,Social,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Sports,0
+comment,Sports,0
+post,Class,0
+post,News,0
+comment,News,-1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,-0.6666666666666666
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-0.5
+comment,Academics - Other Topics,-0.3333333333333333
+post,Finances,-1.0
+post,Class,-0.3333333333333333
+comment,Class,-0.6
+post,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Research,0
+post,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,PSA,0.0
+comment,PSA,0
+post,Class,0
+comment,Class,0
+comment,Class,0
+post,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-0.45454545454545453
+comment,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+post,Media,0
+comment,Media,1.0
+comment,Media,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,New Student,0
+comment,New Student,0.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,-1.0
+comment,New Student,0.2
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0.2
+comment,New Student,1.0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,-1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,Degree,-1.0
+comment,Degree,-1.0
+comment,Degree,-1.0
+comment,Degree,-0.2
+comment,Degree,1.0
+comment,Degree,0.0
+comment,Degree,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0.0
+post,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,0.6
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+post,Housing,0
+comment,Housing,0.3333333333333333
+post,New Student,0
+comment,New Student,0.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,0
+post,Housing,-1.0
+comment,Housing,0.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Meta,0
+post,Media,0
+comment,Media,-1.0
+post,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Miscellaneous,0
+post,News,0
+comment,News,-1.0
+comment,News,0
+comment,News,0
+comment,News,-1.0
+comment,News,-1.0
+comment,News,0
+post,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+post,Food / Culture,0
+comment,Food / Culture,1.0
+post,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+post,Event,1.0
+comment,Event,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+post,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,-1.0
+post,Class,-1.0
+comment,Class,-0.5
+comment,Class,0.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Class,0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+post,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Student Organization,0.0
+comment,Student Organization,0
+comment,Student Organization,0
+post,COVID-19,-0.8333333333333334
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-0.7142857142857143
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Health / Wellness,0.42857142857142855
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+post,Class,-0.5
+comment,Class,0.0
+comment,Class,-1.0
+comment,Class,0.0
+comment,Class,0.5
+comment,Class,1.0
+post,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-0.2727272727272727
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.5
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+post,Research,0
+comment,Research,0
+comment,Research,0
+post,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+post,Research,0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+comment,Research,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,1.0
+post,Class,0.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0.0
+comment,Class,-0.5
+post,Class,0.0
+comment,Class,0
+comment,Class,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+post,Health / Wellness,0.07692307692307693
+comment,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,-0.5
+post,Class,0
+comment,Class,-1.0
+comment,Class,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+post,Class,-0.3333333333333333
+comment,Class,0
+comment,Class,0
+post,Health / Wellness,0.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+post,Sports,0
+comment,Sports,0
+comment,Sports,-1.0
+post,Degree,-1.0
+comment,Degree,0
+post,Degree,1.0
+comment,Degree,0.0
+comment,Degree,0.0
+comment,Degree,1.0
+comment,Degree,1.0
+comment,Degree,1.0
+comment,Degree,1.0
+post,New Student,1.0
+comment,New Student,1.0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,1.0
+post,Academics - Other Topics,-0.3333333333333333
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+post,Finances,-1.0
+comment,Finances,-1.0
+comment,Finances,-1.0
+post,Sports,0
+comment,Sports,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.6
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Event,0
+comment,Event,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,Miscellaneous,0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,0
+post,Housing,-1.0
+comment,Housing,0.3333333333333333
+comment,Housing,-0.3333333333333333
+comment,Housing,0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+post,Student Organization,-1.0
+post,Prospective Student,0.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Finances,0.3333333333333333
+comment,Finances,0
+post,Prospective Student,0
+comment,Prospective Student,0.3333333333333333
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0.3333333333333333
+comment,Academics - Other Topics,-0.2
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0.0
+post,Finances,-1.0
+comment,Finances,0
+post,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,-1.0
+post,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,-1.0
+comment,News,1.0
+comment,News,1.0
+comment,News,-1.0
+comment,News,0
+comment,News,0
+post,Class,-1.0
+comment,Class,-0.6
+comment,Class,1.0
+comment,Class,0
+post,Meme,0
+post,Satellite Campus,0
+comment,Satellite Campus,-1.0
+comment,Satellite Campus,-1.0
+comment,Satellite Campus,-1.0
+post,Student Organization,0
+comment,Student Organization,-1.0
+comment,Student Organization,1.0
+comment,Student Organization,-1.0
+comment,Student Organization,0
+comment,Student Organization,0.3333333333333333
+comment,Student Organization,0
+post,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+comment,Finances,-1.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+post,Prospective Student,-0.5
+comment,Prospective Student,-0.3333333333333333
+post,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,-0.5
+post,Finances,-1.0
+comment,Finances,-1.0
+comment,Finances,0.14285714285714285
+post,Miscellaneous,-0.3333333333333333
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,0
+comment,Miscellaneous,-1.0
+post,Degree,0
+comment,Degree,1.0
+post,Housing,0
+comment,Housing,0
+post,Employment,0.0
+post,Degree,0
+comment,Degree,0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Class,1.0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0.5
+comment,Class,1.0
+comment,Class,1.0
+post,New Student,0
+comment,New Student,0
+comment,New Student,0
+post,Class,-0.3333333333333333
+comment,Class,0.0
+comment,Class,0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Health / Wellness,-0.6
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+post,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-0.2
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+post,Meme,0
+comment,Meme,0
+comment,Meme,-1.0
+comment,Meme,-1.0
+comment,Meme,-1.0
+comment,Meme,0
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,1.0
+post,Housing,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.75
+comment,Prospective Student,1.0
+post,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,PSA,-1.0
+comment,PSA,0
+comment,PSA,0
+post,COVID-19,0
+comment,COVID-19,0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+post,Finances,-1.0
+comment,Finances,0.0
+comment,Finances,0
+post,Class,1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Degree,0
+comment,Degree,-1.0
+comment,Degree,0.0
+post,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Health / Wellness,-0.7241379310344828
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0.25
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+post,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+comment,COVID-19,0
+post,Academics - Other Topics,-0.3333333333333333
+comment,Academics - Other Topics,0
+post,Buy / Sell,0
+post,PSA,0.0
+comment,PSA,-1.0
+comment,PSA,-1.0
+post,Housing,0
+comment,Housing,1.0
+post,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,0
+post,Employment,0.0
+comment,Employment,0
+comment,Employment,-0.5
+comment,Employment,0
+post,Miscellaneous,0
+comment,Miscellaneous,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,0.0
+comment,Housing,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,Degree,-1.0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,-1.0
+comment,Degree,0
+comment,Degree,-1.0
+post,PSA,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,0
+post,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+post,Class,0
+comment,Class,0.0
+post,Meme,0
+comment,Meme,-1.0
+comment,Meme,-1.0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+comment,Meme,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+post,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,0
+comment,News,1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,-0.3333333333333333
+comment,Employment,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,0.0
+post,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,1.0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Event,1.0
+post,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Social,0
+comment,Social,-1.0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+comment,Social,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+post,Prospective Student,0.3333333333333333
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Housing,0.6
+comment,Housing,1.0
+comment,Housing,-1.0
+comment,Housing,0
+post,Finances,-1.0
+comment,Finances,0
+comment,Finances,1.0
+comment,Finances,0.0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+post,COVID-19,-1.0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.75
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+post,Class,0
+post,Class,0.0
+comment,Class,0
+comment,Class,0.3333333333333333
+comment,Class,0
+post,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+comment,PSA,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.3333333333333333
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+post,Buy / Sell,-1.0
+post,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+post,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,-0.6
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Degree,1.0
+comment,Degree,1.0
+comment,Degree,0.5
+comment,Degree,1.0
+comment,Degree,1.0
+comment,Degree,1.0
+post,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Miscellaneous,0.0
+comment,Miscellaneous,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+post,Housing,1.0
+post,Research,-1.0
+comment,Research,0.0
+post,Class,1.0
+comment,Class,1.0
+comment,Class,-1.0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Sports,0
+comment,Sports,1.0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Sports,0
+comment,Sports,0
+comment,Sports,0
+post,Miscellaneous,0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+comment,Miscellaneous,0.0
+post,Class,1.0
+comment,Class,1.0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+post,Class,-1.0
+comment,Class,0.0
+post,Housing,0.3333333333333333
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+post,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,-1.0
+post,None,0
+comment,None,0
+comment,None,-1.0
+comment,None,-1.0
+post,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0.09090909090909091
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+post,Social,0
+post,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Food / Culture,0
+comment,Food / Culture,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+post,Degree,0
+comment,Degree,0
+comment,Degree,0
+comment,Degree,0
+post,Satellite Campus,1.0
+comment,Satellite Campus,1.0
+comment,Satellite Campus,1.0
+comment,Satellite Campus,0
+comment,Satellite Campus,0.6
+comment,Satellite Campus,1.0
+comment,Satellite Campus,0
+post,Social,0
+comment,Social,0
+comment,Social,0
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.14285714285714285
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-0.2
+comment,Prospective Student,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,Employment,-0.3333333333333333
+comment,Employment,0
+comment,Employment,-0.6
+comment,Employment,-1.0
+comment,Employment,0.3333333333333333
+comment,Employment,1.0
+post,New Student,-1.0
+comment,New Student,0
+post,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-0.3333333333333333
+post,Prospective Student,-1.0
+comment,Prospective Student,0
+post,Meme,0
+comment,Meme,-1.0
+post,Class,-1.0
+comment,Class,0
+post,Class,0
+comment,Class,-0.3333333333333333
+comment,Class,0
+comment,Class,1.0
+post,Miscellaneous,1.0
+post,Health / Wellness,-0.6
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+comment,Health / Wellness,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Class,-0.6
+comment,Class,0.3333333333333333
+comment,Class,0
+post,Class,0
+post,Class,0
+post,Housing,0.3333333333333333
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0.0
+post,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+post,Meme,0
+comment,Meme,0
+post,Student Organization,-1.0
+comment,Student Organization,1.0
+comment,Student Organization,1.0
+comment,Student Organization,0
+comment,Student Organization,0
+post,Class,0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,-1.0
+post,Student Organization,0
+post,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,0
+comment,Meme,1.0
+post,Employment,0
+comment,Employment,0.3333333333333333
+comment,Employment,1.0
+post,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,1.0
+comment,Health / Wellness,0
+post,Media,0
+comment,Media,-0.2
+comment,Media,1.0
+comment,Media,-0.3333333333333333
+comment,Media,0
+comment,Media,0
+comment,Media,-1.0
+comment,Media,-0.8181818181818182
+comment,Media,0
+comment,Media,0
+comment,Media,0
+post,Miscellaneous,-1.0
+comment,Miscellaneous,-1.0
+post,Research,0.5
+post,Academics - Other Topics,-0.14285714285714285
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-0.6666666666666666
+comment,Academics - Other Topics,0
+post,Class,0
+post,Class,1.0
+comment,Class,0
+comment,Class,0
+post,Finances,1.0
+comment,Finances,1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,0.0
+comment,Finances,-0.3333333333333333
+comment,Finances,0
+post,COVID-19,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0.0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,1.0
+comment,Finances,0.0
+post,Health / Wellness,-0.6521739130434783
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-0.125
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-0.7142857142857143
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,-1.0
+comment,Health / Wellness,-0.3333333333333333
+comment,Health / Wellness,0
+comment,Health / Wellness,0.3333333333333333
+comment,Health / Wellness,-0.75
+comment,Health / Wellness,0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,1.0
+comment,Housing,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-0.3333333333333333
+comment,COVID-19,0
+post,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+comment,Finances,-1.0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Prospective Student,0
+comment,Prospective Student,0
+post,COVID-19,0.0
+comment,COVID-19,1.0
+comment,COVID-19,-1.0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+post,Media,0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Meme,0
+comment,Meme,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Prospective Student,1.0
+comment,Prospective Student,-0.3333333333333333
+comment,Prospective Student,-0.7142857142857143
+post,Class,-0.2
+comment,Class,0
+comment,Class,-0.25
+comment,Class,-0.6
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0.42857142857142855
+comment,Class,0
+comment,Class,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Employment,1.0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,0
+comment,Employment,-1.0
+post,Prospective Student,1.0
+comment,Prospective Student,0.42857142857142855
+post,Parking,0
+comment,Parking,1.0
+post,Research,0.14285714285714285
+comment,Research,1.0
+comment,Research,0
+post,Media,0
+comment,Media,0
+comment,Media,0
+post,Student Organization,-1.0
+post,Employment,0
+comment,Employment,0
+comment,Employment,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Class,0
+comment,Class,0
+post,Health / Wellness,-0.5
+comment,Health / Wellness,0
+post,Housing,0.0
+comment,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,-1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+post,Satellite Campus,0
+post,Buy / Sell,1.0
+comment,Buy / Sell,0
+post,Research,0
+post,Finances,1.0
+comment,Finances,0
+post,Meme,0
+comment,Meme,-1.0
+comment,Meme,0
+comment,Meme,0.0
+comment,Meme,0
+comment,Meme,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-0.5714285714285714
+comment,Prospective Student,0.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0.5
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+post,Housing,1.0
+comment,Housing,0
+post,Finances,0
+comment,Finances,0.3333333333333333
+comment,Finances,0
+comment,Finances,1.0
+comment,Finances,-1.0
+comment,Finances,0
+post,Class,0
+comment,Class,0
+post,Class,1.0
+comment,Class,-1.0
+comment,Class,0
+post,Housing,1.0
+comment,Housing,-0.3333333333333333
+comment,Housing,1.0
+comment,Housing,1.0
+post,Class,-1.0
+comment,Class,0
+comment,Class,-1.0
+post,Student Organization,-1.0
+comment,Student Organization,-0.3333333333333333
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,0
+comment,Student Organization,1.0
+post,Health / Wellness,0
+post,Class,-1.0
+comment,Class,0.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+post,None,0
+post,Class,0
+post,Food / Culture,-1.0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Class,0
+post,Class,-1.0
+comment,Class,0
+post,None,0
+comment,None,0
+comment,None,0
+comment,None,0
+post,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0
+post,Media,0
+comment,Media,-1.0
+comment,Media,0
+comment,Media,0
+comment,Media,-1.0
+comment,Media,0
+comment,Media,-1.0
+comment,Media,0
+comment,Media,-1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+comment,Miscellaneous,0
+comment,Miscellaneous,1.0
+post,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,-1.0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+comment,Academics - Other Topics,0
+post,Class,0.0
+comment,Class,-1.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,-1.0
+post,Housing,-1.0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,-1.0
+post,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,0.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+comment,Finances,0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,1.0
+comment,Food / Culture,0
+post,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,0
+post,Academics - Other Topics,1.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0
+post,Class,-1.0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,-1.0
+comment,Class,0.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+post,COVID-19,0
+comment,COVID-19,1.0
+comment,COVID-19,0
+post,Class,0
+comment,Class,1.0
+comment,Class,-1.0
+post,Class,-1.0
+comment,Class,0
+comment,Class,0
+comment,Class,0.2
+comment,Class,0
+post,New Student,0
+comment,New Student,-0.3333333333333333
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0
+comment,New Student,0.0
+comment,New Student,0
+comment,New Student,0
+post,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,-1.0
+post,Finances,-1.0
+comment,Finances,1.0
+comment,Finances,1.0
+comment,Finances,0
+comment,Finances,1.0
+post,Academics - Other Topics,0
+comment,Academics - Other Topics,-1.0
+post,Class,-1.0
+comment,Class,1.0
+comment,Class,1.0
+comment,Class,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,-1.0
+comment,Prospective Student,1.0
+comment,Prospective Student,0
+comment,Prospective Student,1.0
+post,Employment,0
+comment,Employment,-1.0
+post,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,Degree,1.0
+comment,Degree,0
+post,Buy / Sell,0.0
+comment,Buy / Sell,0
+comment,Buy / Sell,-1.0
+comment,Buy / Sell,0
+post,COVID-19,0
+comment,COVID-19,-0.5
+comment,COVID-19,-1.0
+comment,COVID-19,0.0
+post,Social,0
+comment,Social,-1.0
+comment,Social,0
+post,Housing,0
+comment,Housing,-1.0
+comment,Housing,0
+comment,Housing,0
+post,Media,0
+comment,Media,1.0
+comment,Media,0
+comment,Media,0
+post,COVID-19,0.3333333333333333
+comment,COVID-19,-1.0
+comment,COVID-19,0
+comment,COVID-19,0
+comment,COVID-19,-1.0
+post,Class,0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,1.0
+comment,Class,0
+comment,Class,-1.0
+comment,Class,0
+post,Finances,1.0
+comment,Finances,0
+post,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+comment,Food / Culture,0
+post,Class,0.0
+comment,Class,0
+comment,Class,0.0
+comment,Class,0.3333333333333333
+post,None,1.0
+comment,None,0
+comment,None,1.0
+post,Class,1.0
+comment,Class,0
+post,Food / Culture,0
+comment,Food / Culture,0
+comment,Food / Culture,-1.0
+post,Food / Culture,-1.0
+comment,Food / Culture,1.0
+post,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+comment,Prospective Student,0
+post,Housing,1.0
+comment,Housing,0
+comment,Housing,0
+comment,Housing,1.0
+post,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,-1.0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0
+comment,Media,0

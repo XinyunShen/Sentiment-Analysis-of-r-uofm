@@ -1,0 +1,5038 @@
+post,Health / Wellness,0.7717
+post,Finances,0.296
+comment,Finances,0.0
+post,Class,0.7351
+comment,Class,0.5367
+comment,Class,0.0
+comment,Class,0.0
+post,Class,0.0
+comment,Class,-0.34
+post,Housing,0.6249
+comment,Housing,0.8622
+comment,Housing,-0.6494
+comment,Housing,0.0
+post,Degree,0.0
+comment,Degree,0.9062
+comment,Degree,0.5994
+post,Class,0.0
+comment,Class,0.4767
+post,Employment,0.4019
+comment,Employment,0.6908
+post,Media,0.0
+post,Housing,0.1779
+comment,Housing,0.0
+comment,Housing,-0.2023
+comment,Housing,-0.2732
+post,Finances,0.9517
+comment,Finances,0.7845
+comment,Finances,0.7943
+comment,Finances,0.575
+post,Social,0.8176
+comment,Social,0.0
+comment,Social,0.743
+comment,Social,0.5574
+comment,Social,0.7783
+comment,Social,0.6743
+post,Housing,0.9908
+post,Degree,-0.25
+comment,Degree,0.7964
+post,Class,0.6486
+comment,Class,0.9296
+post,Degree,0.7003
+comment,Degree,0.3597
+comment,Degree,0.6705
+comment,Degree,0.0
+post,Finances,-0.25
+comment,Finances,0.1779
+comment,Finances,0.8275
+comment,Finances,0.0
+post,Meme,0.0
+post,New Student,0.9268
+comment,New Student,0.5574
+comment,New Student,-0.25
+comment,New Student,0.7707
+comment,New Student,0.969
+comment,New Student,0.4404
+comment,New Student,0.0
+comment,New Student,-0.6486
+comment,New Student,0.791
+comment,New Student,0.9524
+post,New Student,0.8448
+comment,New Student,0.3182
+comment,New Student,0.9201
+comment,New Student,-0.0772
+post,Prospective Student,0.7943
+comment,Prospective Student,0.8591
+comment,Prospective Student,0.7096
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5994
+comment,Prospective Student,0.2732
+comment,Prospective Student,0.886
+post,Prospective Student,0.9001
+comment,Prospective Student,0.9186
+comment,Prospective Student,0.4019
+comment,Prospective Student,0.7003
+comment,Prospective Student,0.7269
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0772
+comment,Prospective Student,0.7717
+post,COVID-19,-0.2023
+comment,COVID-19,0.7964
+post,Class,0.886
+comment,Class,0.7152
+comment,Class,0.6705
+comment,Class,0.7783
+comment,Class,0.6705
+comment,Class,0.3818
+post,Miscellaneous,0.9699
+comment,Miscellaneous,-0.4215
+comment,Miscellaneous,0.9201
+comment,Miscellaneous,0.5118
+comment,Miscellaneous,-0.7299
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.2006
+comment,Miscellaneous,0.4404
+comment,Miscellaneous,-0.743
+comment,Miscellaneous,-0.5106
+comment,Miscellaneous,-0.5994
+comment,Miscellaneous,0.0
+post,New Student,0.0
+comment,New Student,0.9337
+comment,New Student,0.4215
+comment,New Student,0.7096
+post,Finances,0.7269
+comment,Finances,0.7351
+comment,Finances,0.25
+comment,Finances,0.7096
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.1779
+post,Degree,0.0
+comment,Degree,0.9783
+comment,Degree,0.0
+comment,Degree,0.3612
+post,Class,0.6124
+comment,Class,0.8519
+post,Miscellaneous,-0.0516
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+post,COVID-19,-0.6249
+post,None,0.0
+comment,None,0.7269
+comment,None,0.0
+comment,None,-0.4985
+comment,None,0.0
+post,Miscellaneous,0.3182
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.25
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4767
+post,Degree,0.8555
+comment,Degree,0.9153
+comment,Degree,0.8074
+comment,Degree,0.5348
+post,Parking,0.836
+comment,Parking,0.8934
+comment,Parking,0.3612
+comment,Parking,0.2732
+post,Miscellaneous,0.0
+comment,Miscellaneous,-0.3412
+comment,Miscellaneous,0.128
+comment,Miscellaneous,0.0
+post,Research,0.6908
+comment,Research,0.0
+comment,Research,0.6369
+comment,Research,0.6249
+post,Health / Wellness,0.0
+comment,Health / Wellness,-0.25
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,0.8402
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.8074
+comment,Health / Wellness,0.0772
+comment,Health / Wellness,0.6808
+post,Academics - Other Topics,0.8519
+comment,Academics - Other Topics,0.4019
+comment,Academics - Other Topics,0.8591
+post,Media,0.2484
+post,Employment,0.0
+comment,Employment,-0.1139
+post,Prospective Student,0.9403
+comment,Prospective Student,0.9861
+comment,Prospective Student,0.128
+comment,Prospective Student,0.992
+comment,Prospective Student,0.4404
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.8428
+comment,Prospective Student,0.6124
+comment,Prospective Student,0.7003
+comment,Prospective Student,0.8834
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0772
+comment,Prospective Student,0.8658
+comment,Prospective Student,0.9482
+comment,Prospective Student,0.5859
+comment,Prospective Student,0.9566
+comment,Prospective Student,0.8055
+post,Social,0.3949
+comment,Social,-0.128
+comment,Social,-0.34
+comment,Social,0.6922
+comment,Social,0.3182
+post,Prospective Student,0.6808
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.7096
+comment,Prospective Student,0.8481
+comment,Prospective Student,-0.2023
+comment,Prospective Student,0.4348
+post,Meme,0.0
+comment,Meme,0.296
+comment,Meme,0.6597
+comment,Meme,-0.7906
+comment,Meme,-0.197
+comment,Meme,0.4576
+comment,Meme,0.4019
+comment,Meme,-0.6068
+comment,Meme,0.8319
+comment,Meme,0.7184
+comment,Meme,0.7003
+comment,Meme,0.6814
+comment,Meme,-0.3367
+comment,Meme,0.296
+comment,Meme,0.9445
+post,Prospective Student,0.9231
+comment,Prospective Student,0.9918
+comment,Prospective Student,0.6908
+post,COVID-19,0.0
+comment,COVID-19,0.7003
+comment,COVID-19,0.5719
+comment,COVID-19,0.8316
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,Housing,0.9345
+comment,Housing,-0.0258
+comment,Housing,0.659
+comment,Housing,0.5256
+post,Class,-0.1531
+comment,Class,0.5378
+comment,Class,0.4218
+comment,Class,0.296
+comment,Class,-0.3818
+comment,Class,0.2023
+comment,Class,0.3612
+comment,Class,0.2732
+comment,Class,-0.4588
+comment,Class,-0.7543
+comment,Class,-0.1263
+comment,Class,-0.8316
+comment,Class,-0.636
+comment,Class,-0.2022
+comment,Class,0.4215
+comment,Class,0.5994
+comment,Class,-0.5106
+post,Event,0.765
+comment,Event,0.7717
+comment,Event,0.6486
+post,Prospective Student,0.988
+comment,Prospective Student,0.7717
+comment,Prospective Student,-0.3612
+comment,Prospective Student,0.9442
+comment,Prospective Student,0.3818
+comment,Prospective Student,0.651
+post,Sports,0.8555
+comment,Sports,0.0276
+post,Student Organization,0.7351
+comment,Student Organization,-0.3834
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.4019
+comment,Meme,-0.0772
+post,Miscellaneous,-0.0314
+comment,Miscellaneous,0.8126
+comment,Miscellaneous,0.9538
+comment,Miscellaneous,0.6369
+comment,Miscellaneous,0.7351
+comment,Miscellaneous,0.7717
+comment,Miscellaneous,0.8977
+comment,Miscellaneous,0.4404
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0772
+post,Degree,-0.4019
+comment,Degree,0.8958
+comment,Degree,0.3612
+comment,Degree,0.4939
+comment,Degree,-0.6705
+comment,Degree,0.5994
+comment,Degree,0.3182
+comment,Degree,-0.4215
+comment,Degree,-0.1027
+comment,Degree,0.0
+post,Degree,0.7184
+comment,Degree,-0.2023
+post,Prospective Student,0.9506
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9403
+post,Housing,-0.1761
+comment,Housing,0.8268
+comment,Housing,0.5468
+comment,Housing,0.2732
+comment,Housing,0.6705
+post,PSA,0.9986
+comment,PSA,-0.0516
+comment,PSA,-0.34
+comment,PSA,0.659
+comment,PSA,-0.5423
+comment,PSA,0.4767
+comment,PSA,0.8176
+comment,PSA,0.7906
+comment,PSA,0.0
+comment,PSA,0.0
+comment,PSA,-0.1531
+post,COVID-19,0.334
+comment,COVID-19,0.3182
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.3182
+comment,COVID-19,0.0
+post,Prospective Student,0.8689
+comment,Prospective Student,0.7269
+comment,Prospective Student,0.0
+comment,Prospective Student,0.8039
+comment,Prospective Student,0.0
+comment,Prospective Student,0.296
+post,Prospective Student,0.9885
+comment,Prospective Student,0.9019
+comment,Prospective Student,0.9983
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9976
+comment,Prospective Student,0.9795
+post,Degree,0.9601
+comment,Degree,0.99
+comment,Degree,0.5106
+post,Parking,0.7964
+comment,Parking,0.0
+comment,Parking,-0.4391
+post,Miscellaneous,0.5267
+comment,Miscellaneous,0.3182
+comment,Miscellaneous,0.3182
+post,Miscellaneous,0.4939
+comment,Miscellaneous,0.5106
+post,Class,0.0
+comment,Class,0.296
+comment,Class,-0.2006
+comment,Class,0.0
+post,Media,0.0
+comment,Media,0.9169
+comment,Media,0.0
+post,COVID-19,0.3612
+comment,COVID-19,-0.2023
+comment,COVID-19,0.3182
+comment,COVID-19,0.296
+comment,COVID-19,0.829
+comment,COVID-19,0.4019
+comment,COVID-19,0.0
+post,Prospective Student,0.7579
+comment,Prospective Student,0.9694
+comment,Prospective Student,0.6124
+post,Prospective Student,0.6705
+comment,Prospective Student,0.5719
+comment,Prospective Student,0.6705
+post,Academics - Other Topics,0.0772
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.4767
+post,COVID-19,-0.197
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+post,Class,0.7178
+comment,Class,0.8807
+post,Prospective Student,-0.296
+comment,Prospective Student,-0.5267
+post,COVID-19,0.3612
+comment,COVID-19,-0.3818
+comment,COVID-19,0.2023
+comment,COVID-19,0.0
+post,Employment,0.9907
+comment,Employment,0.7184
+comment,Employment,0.4404
+post,Research,0.8085
+comment,Research,0.9612
+comment,Research,0.2732
+post,Class,-0.483
+comment,Class,-0.0772
+comment,Class,0.0
+comment,Class,-0.7003
+comment,Class,-0.2023
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.4215
+comment,Miscellaneous,0.6705
+post,Prospective Student,0.5574
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5994
+post,Housing,0.8689
+comment,Housing,-0.4215
+comment,Housing,0.6597
+comment,Housing,0.6361
+post,Food / Culture,0.8519
+comment,Food / Culture,0.9648
+comment,Food / Culture,0.7703
+comment,Food / Culture,0.802
+comment,Food / Culture,0.0
+comment,Food / Culture,0.6801
+comment,Food / Culture,0.5267
+comment,Food / Culture,0.0
+comment,Food / Culture,0.5574
+comment,Food / Culture,0.9831
+post,Housing,0.4144
+comment,Housing,-0.6124
+comment,Housing,0.9239
+comment,Housing,0.802
+comment,Housing,0.0
+comment,Housing,0.6369
+post,Prospective Student,0.9934
+comment,Prospective Student,0.9806
+comment,Prospective Student,0.5719
+comment,Prospective Student,0.9915
+comment,Prospective Student,0.6705
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.0
+post,Prospective Student,0.3182
+comment,Prospective Student,0.8316
+post,Miscellaneous,0.6369
+comment,Miscellaneous,0.9738
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.25
+comment,Miscellaneous,0.9035
+comment,Miscellaneous,0.967
+comment,Miscellaneous,0.0516
+comment,Miscellaneous,0.875
+comment,Miscellaneous,0.8689
+post,COVID-19,-0.8126
+comment,COVID-19,0.0
+post,Prospective Student,0.6486
+comment,Prospective Student,0.8807
+comment,Prospective Student,0.7964
+comment,Prospective Student,0.0
+post,Class,-0.0258
+comment,Class,0.0
+comment,Class,0.8442
+comment,Class,0.5719
+comment,Class,0.0
+comment,Class,0.4019
+post,Class,-0.7964
+comment,Class,-0.3182
+comment,Class,0.4019
+post,COVID-19,0.5994
+comment,COVID-19,0.7951
+comment,COVID-19,0.296
+comment,COVID-19,-0.296
+comment,COVID-19,0.807
+post,Prospective Student,0.8696
+comment,Prospective Student,0.6597
+comment,Prospective Student,0.9442
+comment,Prospective Student,0.9839
+comment,Prospective Student,0.979
+comment,Prospective Student,-0.0772
+comment,Prospective Student,0.802
+comment,Prospective Student,-0.0258
+comment,Prospective Student,-0.3041
+comment,Prospective Student,0.1779
+comment,Prospective Student,-0.5859
+comment,Prospective Student,0.7717
+post,Class,0.7269
+comment,Class,0.0
+comment,Class,0.6249
+comment,Class,0.3182
+post,COVID-19,0.4404
+comment,COVID-19,0.6369
+comment,COVID-19,-0.3818
+comment,COVID-19,0.9524
+comment,COVID-19,0.6369
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,New Student,0.1027
+comment,New Student,0.0
+comment,New Student,0.0
+post,Student Organization,0.9349
+comment,Student Organization,0.8979
+post,Prospective Student,0.8316
+comment,Prospective Student,0.765
+comment,Prospective Student,0.972
+comment,Prospective Student,0.9932
+comment,Prospective Student,0.6486
+comment,Prospective Student,0.9623
+post,Student Organization,0.9578
+comment,Student Organization,0.9579
+comment,Student Organization,0.9409
+comment,Student Organization,0.6486
+comment,Student Organization,0.9313
+post,Student Organization,0.9214
+comment,Student Organization,0.128
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.0772
+post,Prospective Student,0.5994
+comment,Prospective Student,0.8676
+comment,Prospective Student,0.9935
+post,Prospective Student,0.9916
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.9453
+comment,Prospective Student,0.539
+comment,Prospective Student,0.967
+comment,Prospective Student,0.8363
+comment,Prospective Student,0.7184
+comment,Prospective Student,-0.0772
+comment,Prospective Student,0.6478
+comment,Prospective Student,0.25
+comment,Prospective Student,-0.4767
+comment,Prospective Student,0.9485
+comment,Prospective Student,0.7717
+comment,Prospective Student,0.0
+post,Employment,0.8481
+comment,Employment,0.983
+comment,Employment,0.9618
+comment,Employment,-0.5719
+comment,Employment,0.9726
+comment,Employment,0.659
+comment,Employment,0.7783
+comment,Employment,-0.5859
+comment,Employment,0.7783
+comment,Employment,0.0
+comment,Employment,0.296
+comment,Employment,0.9931
+comment,Employment,0.9506
+comment,Employment,0.0
+comment,Employment,0.3818
+comment,Employment,-0.7351
+post,Class,0.926
+comment,Class,0.9313
+post,COVID-19,0.0
+comment,COVID-19,-0.2732
+comment,COVID-19,0.4754
+post,Degree,0.9299
+comment,Degree,0.9887
+comment,Degree,0.2349
+comment,Degree,0.3182
+comment,Degree,0.34
+post,Food / Culture,0.8779
+post,Degree,0.8934
+comment,Degree,0.5994
+comment,Degree,0.0
+comment,Degree,-0.5423
+post,Prospective Student,-0.1531
+comment,Prospective Student,0.8625
+comment,Prospective Student,0.0
+comment,Prospective Student,0.802
+post,Prospective Student,0.8225
+comment,Prospective Student,0.8442
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.0
+post,COVID-19,0.5574
+comment,COVID-19,0.0772
+comment,COVID-19,0.9509
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.6808
+post,Student Organization,0.6597
+comment,Student Organization,0.9201
+post,Media,0.0
+post,Class,0.5994
+post,Class,0.0
+post,Academics - Other Topics,0.34
+comment,Academics - Other Topics,0.6801
+comment,Academics - Other Topics,-0.3612
+comment,Academics - Other Topics,0.7778
+post,Meme,0.0
+comment,Meme,0.5267
+comment,Meme,0.2023
+comment,Meme,0.0
+post,Degree,0.5719
+comment,Degree,0.5719
+comment,Degree,0.9447
+comment,Degree,0.0
+comment,Degree,0.9131
+comment,Degree,0.5574
+post,Student Organization,0.2732
+comment,Student Organization,0.8834
+comment,Student Organization,0.7322
+comment,Student Organization,0.0
+comment,Student Organization,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,COVID-19,0.4588
+comment,COVID-19,-0.4939
+comment,COVID-19,0.2057
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,0.34
+comment,COVID-19,0.4939
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.4215
+comment,COVID-19,0.6249
+comment,COVID-19,0.0
+comment,COVID-19,-0.4215
+comment,COVID-19,0.4404
+comment,COVID-19,0.0
+comment,COVID-19,0.34
+comment,COVID-19,-0.4939
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.34
+comment,COVID-19,-0.5574
+comment,COVID-19,0.7783
+post,Class,0.9633
+comment,Class,0.5859
+comment,Class,0.0
+comment,Class,0.2263
+post,Event,0.0
+comment,Event,0.0
+comment,Event,0.34
+comment,Event,-0.25
+comment,Event,-0.25
+comment,Event,0.2023
+comment,Event,0.2263
+comment,Event,0.0
+comment,Event,0.0
+post,Academics - Other Topics,0.7264
+comment,Academics - Other Topics,0.4404
+comment,Academics - Other Topics,0.3818
+post,Prospective Student,0.0
+post,Class,0.465
+comment,Class,0.4318
+comment,Class,0.0
+comment,Class,0.4386
+post,Employment,0.0772
+comment,Employment,0.0
+comment,Employment,0.4939
+comment,Employment,0.0
+comment,Employment,0.0
+post,Prospective Student,0.743
+comment,Prospective Student,0.0
+post,Finances,0.8625
+comment,Finances,0.7083
+comment,Finances,0.0
+post,COVID-19,0.0
+comment,COVID-19,-0.5994
+comment,COVID-19,0.9186
+comment,COVID-19,-0.7003
+comment,COVID-19,-0.34
+post,Prospective Student,0.9771
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5879
+comment,Prospective Student,0.1531
+comment,Prospective Student,0.4588
+post,Prospective Student,0.9623
+comment,Prospective Student,0.6124
+comment,Prospective Student,0.7906
+comment,Prospective Student,0.9908
+post,Academics - Other Topics,-0.7964
+comment,Academics - Other Topics,0.4939
+comment,Academics - Other Topics,0.9042
+comment,Academics - Other Topics,0.9896
+comment,Academics - Other Topics,0.9115
+comment,Academics - Other Topics,-0.5106
+post,Class,-0.4767
+comment,Class,-0.2732
+post,Event,0.9501
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.7184
+comment,Miscellaneous,0.0
+post,Event,0.0
+post,Meme,0.0
+comment,Meme,-0.4939
+comment,Meme,-0.5859
+comment,Meme,-0.8228
+comment,Meme,-0.296
+comment,Meme,-0.3818
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.34
+comment,Meme,0.0
+comment,Meme,-0.6908
+comment,Meme,0.0
+post,Miscellaneous,0.0
+post,Housing,0.6597
+comment,Housing,-0.2732
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.7783
+post,Academics - Other Topics,0.4404
+comment,Academics - Other Topics,0.0
+post,Research,0.0
+comment,Research,0.6486
+comment,Research,0.0
+comment,Research,0.0
+comment,Research,0.0
+comment,Research,0.0
+post,Miscellaneous,0.0258
+comment,Miscellaneous,0.5719
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.765
+post,Class,0.7906
+comment,Class,0.3818
+comment,Class,0.93
+post,New Student,0.4019
+comment,New Student,0.9186
+comment,New Student,0.4741
+comment,New Student,0.0
+comment,New Student,0.7269
+comment,New Student,0.3612
+post,Prospective Student,0.9169
+comment,Prospective Student,0.7322
+comment,Prospective Student,0.875
+post,Research,0.0
+comment,Research,0.0
+comment,Research,0.6705
+post,Prospective Student,0.8316
+comment,Prospective Student,0.7506
+post,Prospective Student,0.6124
+comment,Prospective Student,0.8779
+post,New Student,-0.7437
+comment,New Student,0.9423
+comment,New Student,0.5267
+comment,New Student,0.8271
+comment,New Student,0.9798
+comment,New Student,-0.0258
+comment,New Student,0.0516
+comment,New Student,0.9861
+comment,New Student,0.9774
+comment,New Student,-0.8126
+comment,New Student,0.0
+comment,New Student,0.9687
+comment,New Student,0.7506
+comment,New Student,0.9559
+comment,New Student,0.9022
+comment,New Student,-0.5423
+comment,New Student,0.9548
+comment,New Student,-0.1531
+comment,New Student,0.9169
+comment,New Student,0.0
+post,Prospective Student,0.9686
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.5423
+comment,Prospective Student,-0.34
+comment,Prospective Student,0.8404
+comment,Prospective Student,0.7351
+comment,Prospective Student,0.4215
+comment,Prospective Student,-0.1513
+post,Food / Culture,0.8442
+comment,Food / Culture,0.9313
+post,Miscellaneous,0.6486
+comment,Miscellaneous,0.7351
+comment,Miscellaneous,0.25
+comment,Miscellaneous,0.0
+post,Satellite Campus,0.7089
+post,Food / Culture,0.0
+comment,Food / Culture,0.6096
+comment,Food / Culture,0.8519
+comment,Food / Culture,0.0
+comment,Food / Culture,0.8122
+comment,Food / Culture,0.0
+post,Social,0.9353
+comment,Social,0.9274
+comment,Social,0.7003
+comment,Social,0.4588
+comment,Social,0.0
+post,Prospective Student,0.9136
+comment,Prospective Student,0.5719
+comment,Prospective Student,0.7996
+post,Sports,0.0
+comment,Sports,0.4215
+post,Satellite Campus,0.8074
+comment,Satellite Campus,0.9259
+comment,Satellite Campus,0.9677
+comment,Satellite Campus,0.7964
+post,Student Organization,0.0
+comment,Student Organization,0.9274
+comment,Student Organization,0.9509
+post,COVID-19,0.0
+comment,COVID-19,0.2732
+comment,COVID-19,0.7845
+comment,COVID-19,-0.6249
+comment,COVID-19,0.0
+comment,COVID-19,0.4588
+post,Sports,0.7553
+comment,Sports,0.7574
+comment,Sports,0.4927
+comment,Sports,0.34
+comment,Sports,0.8733
+post,Miscellaneous,-0.7003
+comment,Miscellaneous,0.9594
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.8883
+comment,Miscellaneous,-0.5859
+comment,Miscellaneous,0.8176
+comment,Miscellaneous,0.0772
+comment,Miscellaneous,-0.7783
+post,Prospective Student,0.9769
+comment,Prospective Student,0.0
+comment,Prospective Student,0.8439
+comment,Prospective Student,0.9477
+comment,Prospective Student,0.9432
+comment,Prospective Student,0.3182
+post,Prospective Student,0.4792
+post,Media,0.0
+post,Academics - Other Topics,-0.1513
+comment,Academics - Other Topics,0.8074
+comment,Academics - Other Topics,0.8777
+comment,Academics - Other Topics,-0.3612
+post,COVID-19,0.0772
+comment,COVID-19,0.0
+comment,COVID-19,0.4939
+post,Housing,0.2732
+comment,Housing,0.9753
+comment,Housing,0.0
+comment,Housing,0.9796
+post,Prospective Student,0.4536
+comment,Prospective Student,0.9243
+comment,Prospective Student,0.9678
+comment,Prospective Student,0.0
+comment,Prospective Student,0.91
+comment,Prospective Student,0.6705
+post,News,0.0
+comment,News,0.0
+comment,News,0.0
+comment,News,0.6249
+comment,News,0.0
+post,Prospective Student,0.8405
+comment,Prospective Student,0.9493
+comment,Prospective Student,0.25
+post,Employment,0.0
+comment,Employment,0.5994
+comment,Employment,0.25
+post,Prospective Student,0.6344
+comment,Prospective Student,0.979
+comment,Prospective Student,0.8981
+comment,Prospective Student,0.8591
+comment,Prospective Student,0.9501
+comment,Prospective Student,0.4588
+post,Housing,0.4215
+comment,Housing,0.8379
+comment,Housing,0.0
+post,Prospective Student,0.5106
+comment,Prospective Student,0.6486
+comment,Prospective Student,0.0505
+comment,Prospective Student,0.9745
+post,Miscellaneous,0.9529
+comment,Miscellaneous,0.0
+post,Sports,-0.8126
+post,Degree,0.6369
+comment,Degree,0.3182
+post,Housing,0.0
+comment,Housing,0.4767
+comment,Housing,0.1027
+post,Finances,0.0
+comment,Finances,0.3612
+comment,Finances,0.0
+post,Housing,0.9325
+comment,Housing,0.872
+comment,Housing,0.8807
+comment,Housing,0.8442
+post,Meme,0.0
+comment,Meme,-0.0772
+post,Housing,0.8807
+comment,Housing,-0.4019
+comment,Housing,0.0
+comment,Housing,0.0
+post,Meme,-0.1611
+post,Student Organization,0.0
+comment,Student Organization,0.4404
+comment,Student Organization,0.4019
+post,Meme,-0.8885
+post,Meme,0.0
+comment,Meme,0.743
+comment,Meme,0.7096
+comment,Meme,-0.7717
+comment,Meme,0.296
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.2023
+comment,Meme,0.5859
+comment,Meme,0.3612
+comment,Meme,0.6124
+post,Academics - Other Topics,0.7264
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.5267
+post,Prospective Student,0.765
+comment,Prospective Student,0.985
+comment,Prospective Student,0.25
+post,Parking,0.0
+comment,Parking,0.0
+post,News,0.0
+comment,News,-0.5106
+post,COVID-19,0.0
+post,Meme,0.4939
+comment,Meme,0.3612
+comment,Meme,0.0
+post,Meme,0.0
+comment,Meme,-0.5574
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.0
+post,Meme,0.0
+comment,Meme,0.9694
+post,Meme,-0.9081
+post,Meme,0.0
+comment,Meme,-0.079
+post,Meme,0.0
+comment,Meme,0.6808
+comment,Meme,-0.5719
+post,Meme,0.0
+comment,Meme,-0.296
+comment,Meme,-0.3214
+comment,Meme,0.0
+post,Meta,0.0
+comment,Meta,-0.4404
+comment,Meta,-0.3612
+comment,Meta,-0.128
+comment,Meta,0.0
+comment,Meta,-0.6597
+comment,Meta,0.296
+comment,Meta,0.0
+comment,Meta,-0.044
+post,Degree,0.7087
+comment,Degree,0.7579
+post,New Student,0.9942
+comment,New Student,0.9858
+comment,New Student,0.9712
+comment,New Student,0.9938
+post,Meme,0.0
+comment,Meme,-0.5719
+comment,Meme,0.8591
+comment,Meme,0.0
+comment,Meme,0.128
+comment,Meme,-0.4404
+comment,Meme,0.0
+comment,Meme,0.3612
+post,Prospective Student,0.8004
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.296
+post,Prospective Student,0.8979
+comment,Prospective Student,0.6486
+post,Academics - Other Topics,-0.5467
+comment,Academics - Other Topics,-0.3818
+comment,Academics - Other Topics,-0.6213
+comment,Academics - Other Topics,-0.6873
+comment,Academics - Other Topics,0.8591
+post,Prospective Student,-0.4767
+comment,Prospective Student,-0.3612
+comment,Prospective Student,0.5106
+post,Research,0.9628
+post,Prospective Student,0.7964
+comment,Prospective Student,0.9216
+comment,Prospective Student,0.765
+post,Prospective Student,0.9607
+comment,Prospective Student,0.9887
+post,Social,0.875
+comment,Social,0.0516
+post,Housing,-0.5423
+comment,Housing,0.5106
+post,Housing,0.4654
+comment,Housing,0.9142
+comment,Housing,0.4939
+comment,Housing,0.128
+post,Prospective Student,0.8754
+comment,Prospective Student,0.9812
+post,Prospective Student,0.6705
+comment,Prospective Student,0.9648
+comment,Prospective Student,0.9837
+comment,Prospective Student,0.9176
+comment,Prospective Student,0.6222
+post,Prospective Student,0.0
+comment,Prospective Student,0.7463
+comment,Prospective Student,0.7003
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9705
+comment,Prospective Student,0.8122
+comment,Prospective Student,0.4404
+post,Meme,0.0
+comment,Meme,0.4019
+comment,Meme,0.0
+comment,Meme,0.4404
+post,Academics - Other Topics,0.1531
+comment,Academics - Other Topics,0.296
+post,COVID-19,0.8176
+comment,COVID-19,-0.3818
+post,Finances,-0.1531
+comment,Finances,0.9925
+comment,Finances,0.7794
+comment,Finances,0.296
+comment,Finances,0.9743
+comment,Finances,0.8481
+comment,Finances,0.6786
+comment,Finances,-0.4767
+comment,Finances,-0.3612
+comment,Finances,0.3182
+post,Prospective Student,0.5106
+comment,Prospective Student,0.6369
+comment,Prospective Student,0.7283
+post,Student Organization,-0.34
+comment,Student Organization,0.7003
+comment,Student Organization,0.5423
+post,Prospective Student,0.9599
+comment,Prospective Student,0.6777
+comment,Prospective Student,0.9894
+comment,Prospective Student,-0.6452
+comment,Prospective Student,0.9403
+post,Sports,0.0
+comment,Sports,0.0
+post,Sports,0.7474
+comment,Sports,0.886
+comment,Sports,0.0
+comment,Sports,0.5423
+comment,Sports,0.0258
+comment,Sports,-0.1779
+comment,Sports,0.9313
+comment,Sports,0.0
+comment,Sports,0.0
+post,Sports,0.0
+comment,Sports,0.6908
+comment,Sports,0.0258
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.4215
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,-0.5106
+comment,Sports,0.2023
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.34
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.8555
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,-0.4019
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0258
+comment,Sports,0.0
+comment,Sports,-0.4767
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,-0.5423
+post,Prospective Student,0.3612
+comment,Prospective Student,0.7574
+comment,Prospective Student,0.0772
+post,Miscellaneous,0.34
+comment,Miscellaneous,0.34
+comment,Miscellaneous,0.7906
+comment,Miscellaneous,0.6369
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.34
+post,Finances,0.5574
+comment,Finances,0.4019
+comment,Finances,0.0
+post,Finances,0.0
+comment,Finances,0.3612
+post,Finances,0.0772
+comment,Finances,0.0
+comment,Finances,-0.5719
+comment,Finances,-0.6705
+comment,Finances,0.9116
+post,Degree,0.0
+comment,Degree,-0.4215
+post,PSA,0.9766
+post,Class,0.6124
+comment,Class,-0.3818
+comment,Class,-0.5267
+comment,Class,0.0
+comment,Class,0.0
+post,COVID-19,0.3182
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,Prospective Student,0.3818
+comment,Prospective Student,0.0
+comment,Prospective Student,0.3182
+comment,Prospective Student,0.8555
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.6958
+comment,Prospective Student,0.5423
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.9391
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,Prospective Student,0.4939
+comment,Prospective Student,0.5267
+comment,Prospective Student,0.5859
+comment,Prospective Student,-0.0516
+comment,Prospective Student,0.4576
+post,Degree,0.8658
+comment,Degree,0.128
+comment,Degree,0.8481
+comment,Degree,0.9081
+comment,Degree,0.3818
+comment,Degree,0.4404
+post,COVID-19,0.0
+comment,COVID-19,0.4404
+comment,COVID-19,0.4404
+comment,COVID-19,0.4404
+comment,COVID-19,0.0
+comment,COVID-19,0.8519
+comment,COVID-19,0.2363
+post,New Student,0.9136
+comment,New Student,0.5267
+comment,New Student,0.2023
+comment,New Student,0.4939
+comment,New Student,0.0
+post,Housing,0.9169
+comment,Housing,0.6801
+comment,Housing,0.1027
+comment,Housing,0.3612
+comment,Housing,0.7579
+comment,Housing,0.8271
+post,Miscellaneous,0.0772
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4215
+comment,Miscellaneous,-0.4019
+comment,Miscellaneous,0.3182
+post,Prospective Student,0.8553
+comment,Prospective Student,0.9821
+post,Class,0.6249
+comment,Class,-0.5994
+comment,Class,0.3818
+comment,Class,0.7783
+post,Parking,0.7184
+comment,Parking,0.25
+comment,Parking,0.0
+comment,Parking,0.7506
+comment,Parking,-0.9201
+comment,Parking,-0.9501
+comment,Parking,0.0
+comment,Parking,0.1779
+post,Prospective Student,0.4588
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6237
+comment,Prospective Student,0.9678
+comment,Prospective Student,-0.079
+post,Health / Wellness,0.8906
+comment,Health / Wellness,-0.9371
+comment,Health / Wellness,0.6611
+comment,Health / Wellness,0.9459
+comment,Health / Wellness,0.8923
+comment,Health / Wellness,0.959
+comment,Health / Wellness,0.2023
+comment,Health / Wellness,-0.2732
+comment,Health / Wellness,0.891
+post,Prospective Student,0.659
+comment,Prospective Student,0.6597
+comment,Prospective Student,0.5106
+comment,Prospective Student,0.9845
+post,Prospective Student,0.9403
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.296
+comment,Prospective Student,0.9423
+comment,Prospective Student,0.9337
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.296
+comment,Prospective Student,0.9801
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.1027
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.4215
+comment,Prospective Student,0.7984
+post,Prospective Student,0.9814
+comment,Prospective Student,0.9926
+comment,Prospective Student,0.97
+comment,Prospective Student,0.9041
+post,Miscellaneous,0.0
+comment,Miscellaneous,-0.5106
+comment,Miscellaneous,-0.34
+post,News,0.0
+comment,News,-0.8481
+post,Housing,0.0
+comment,Housing,0.9201
+comment,Housing,0.5574
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.2023
+comment,Meme,0.7269
+comment,Meme,0.357
+comment,Meme,-0.1027
+comment,Meme,0.0
+post,New Student,0.8402
+comment,New Student,0.4019
+comment,New Student,0.5574
+comment,New Student,0.2263
+post,Prospective Student,0.0
+comment,Prospective Student,0.966
+comment,Prospective Student,0.9764
+post,Sports,0.0
+comment,Sports,0.8024
+comment,Sports,0.4404
+comment,Sports,0.8271
+post,Prospective Student,0.6929
+comment,Prospective Student,0.0
+comment,Prospective Student,0.7003
+comment,Prospective Student,0.8126
+comment,Prospective Student,0.743
+comment,Prospective Student,0.1779
+post,Prospective Student,0.9928
+comment,Prospective Student,0.9824
+post,Degree,0.3848
+comment,Degree,0.7906
+comment,Degree,0.2023
+post,Housing,0.886
+comment,Housing,-0.1027
+post,Housing,0.836
+comment,Housing,0.0
+comment,Housing,0.4404
+comment,Housing,0.4215
+comment,Housing,-0.3848
+post,Prospective Student,-0.4062
+comment,Prospective Student,0.9711
+comment,Prospective Student,-0.8885
+comment,Prospective Student,0.6566
+comment,Prospective Student,0.34
+comment,Prospective Student,0.34
+post,Sports,0.9217
+post,Housing,0.4939
+comment,Housing,0.5719
+comment,Housing,0.0
+post,Class,0.25
+comment,Class,0.4404
+post,Prospective Student,-0.5531
+comment,Prospective Student,0.9629
+comment,Prospective Student,0.9313
+comment,Prospective Student,0.7269
+comment,Prospective Student,0.7717
+comment,Prospective Student,0.9097
+comment,Prospective Student,0.9596
+post,Sports,0.6249
+comment,Sports,-0.3612
+comment,Sports,0.4404
+comment,Sports,0.7783
+comment,Sports,0.0
+comment,Sports,0.4902
+post,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.34
+comment,Sports,0.0
+comment,Sports,0.0772
+post,Prospective Student,0.5859
+comment,Prospective Student,0.9509
+post,Prospective Student,0.8442
+comment,Prospective Student,0.8957
+comment,Prospective Student,0.8074
+comment,Prospective Student,0.3612
+post,Housing,0.3182
+comment,Housing,-0.4019
+comment,Housing,0.1779
+comment,Housing,0.0
+comment,Housing,0.296
+comment,Housing,0.4019
+comment,Housing,0.0
+comment,Housing,0.0
+comment,Housing,0.0
+post,Health / Wellness,0.6486
+comment,Health / Wellness,0.5859
+comment,Health / Wellness,0.946
+post,Prospective Student,0.4588
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.128
+comment,Prospective Student,0.296
+comment,Prospective Student,0.0
+post,Prospective Student,0.296
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.926
+comment,Prospective Student,0.9413
+post,Prospective Student,0.0
+comment,Prospective Student,0.4215
+comment,Prospective Student,0.94
+comment,Prospective Student,0.0
+comment,Prospective Student,0.7184
+post,Degree,0.891
+comment,Degree,0.5859
+comment,Degree,0.9033
+comment,Degree,0.8977
+comment,Degree,-0.9201
+comment,Degree,0.946
+comment,Degree,0.9618
+comment,Degree,0.0
+comment,Degree,0.1531
+post,Health / Wellness,0.6779
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,0.4215
+comment,Health / Wellness,0.0258
+post,Student Organization,0.926
+comment,Student Organization,0.0
+comment,Student Organization,0.9552
+post,Event,0.0
+comment,Event,0.9042
+comment,Event,0.0
+comment,Event,0.9246
+comment,Event,0.0
+post,Health / Wellness,0.323
+comment,Health / Wellness,0.6908
+comment,Health / Wellness,0.9337
+comment,Health / Wellness,0.6597
+comment,Health / Wellness,0.0
+post,Prospective Student,0.9682
+comment,Prospective Student,0.8591
+comment,Prospective Student,0.875
+comment,Prospective Student,0.9062
+comment,Prospective Student,-0.2222
+post,Prospective Student,0.7774
+comment,Prospective Student,0.7845
+comment,Prospective Student,0.9862
+comment,Prospective Student,0.8834
+comment,Prospective Student,-0.4404
+comment,Prospective Student,0.9287
+comment,Prospective Student,0.8555
+comment,Prospective Student,0.9371
+comment,Prospective Student,0.5106
+post,Prospective Student,0.128
+comment,Prospective Student,0.9493
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6705
+comment,Prospective Student,0.7845
+comment,Prospective Student,0.3818
+comment,Prospective Student,0.5994
+comment,Prospective Student,0.5423
+comment,Prospective Student,-0.5849
+comment,Prospective Student,0.0
+comment,Prospective Student,0.3182
+comment,Prospective Student,-0.2732
+comment,Prospective Student,-0.3818
+comment,Prospective Student,0.9401
+post,Prospective Student,0.9136
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.6486
+comment,Prospective Student,0.891
+comment,Prospective Student,0.8934
+post,Academics - Other Topics,0.7096
+comment,Academics - Other Topics,0.5719
+comment,Academics - Other Topics,0.7968
+post,Housing,0.9524
+comment,Housing,0.9274
+comment,Housing,-0.937
+comment,Housing,0.25
+comment,Housing,0.9062
+comment,Housing,-0.4019
+post,Prospective Student,0.8957
+post,Degree,0.5719
+comment,Degree,0.6369
+comment,Degree,0.6808
+comment,Degree,0.5106
+comment,Degree,0.4588
+comment,Degree,0.8225
+post,Satellite Campus,0.6597
+comment,Satellite Campus,0.9678
+post,Event,0.9371
+post,COVID-19,0.34
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.802
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.4404
+comment,COVID-19,0.6705
+comment,COVID-19,0.8176
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.4019
+comment,COVID-19,0.2601
+post,Meme,0.0
+comment,Meme,-0.2263
+post,Employment,0.5859
+comment,Employment,0.0
+comment,Employment,0.0
+post,Prospective Student,-0.128
+comment,Prospective Student,0.9336
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,New Student,0.2263
+comment,New Student,0.6124
+post,Prospective Student,0.765
+comment,Prospective Student,0.8957
+comment,Prospective Student,0.3274
+comment,Prospective Student,0.6801
+comment,Prospective Student,-0.7645
+comment,Prospective Student,-0.25
+comment,Prospective Student,0.1531
+post,New Student,0.8553
+comment,New Student,0.9282
+comment,New Student,-0.3612
+comment,New Student,-0.0018
+comment,New Student,0.5916
+post,Prospective Student,0.0258
+post,News,0.0
+comment,News,-0.7506
+comment,News,0.0
+comment,News,0.34
+comment,News,-0.8555
+comment,News,-0.0772
+comment,News,0.0
+comment,News,-0.8316
+comment,News,-0.6597
+comment,News,-0.3816
+post,Prospective Student,0.8074
+comment,Prospective Student,0.8957
+comment,Prospective Student,0.99
+post,Finances,0.8709
+comment,Finances,0.7351
+comment,Finances,0.3804
+comment,Finances,-0.2263
+comment,Finances,0.6705
+post,Housing,0.0
+comment,Housing,0.0
+comment,Housing,0.0
+post,Degree,0.6705
+comment,Degree,0.4019
+post,Housing,0.8442
+comment,Housing,0.8442
+post,Class,0.25
+comment,Class,-0.3182
+post,Meme,0.0
+comment,Meme,0.4215
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.9325
+post,Meme,0.0
+comment,Meme,0.3182
+comment,Meme,-0.5423
+comment,Meme,0.8271
+comment,Meme,0.5859
+post,Degree,0.2732
+comment,Degree,0.6808
+comment,Degree,-0.0772
+comment,Degree,0.2023
+comment,Degree,0.7096
+comment,Degree,0.9665
+post,New Student,0.9602
+comment,New Student,0.9517
+comment,New Student,0.7533
+comment,New Student,0.6605
+comment,New Student,0.9022
+comment,New Student,0.9699
+comment,New Student,0.128
+comment,New Student,-0.3182
+comment,New Student,0.8985
+comment,New Student,0.9274
+comment,New Student,0.9501
+comment,New Student,0.9314
+comment,New Student,0.9708
+comment,New Student,-0.1604
+comment,New Student,0.4404
+comment,New Student,0.9543
+comment,New Student,0.9796
+comment,New Student,0.9001
+comment,New Student,0.946
+comment,New Student,0.4228
+comment,New Student,0.9652
+comment,New Student,0.577
+comment,New Student,0.936
+comment,New Student,0.0
+post,Housing,0.8658
+comment,Housing,0.3182
+comment,Housing,0.0
+comment,Housing,0.4588
+comment,Housing,0.6369
+comment,Housing,0.0
+post,Prospective Student,0.8934
+comment,Prospective Student,0.0
+post,Degree,-0.1027
+comment,Degree,0.0
+comment,Degree,0.7096
+comment,Degree,0.0
+post,Degree,0.0
+comment,Degree,0.0772
+comment,Degree,-0.1027
+comment,Degree,0.4404
+post,Health / Wellness,0.128
+comment,Health / Wellness,0.7003
+comment,Health / Wellness,0.6124
+comment,Health / Wellness,-0.785
+comment,Health / Wellness,0.9834
+comment,Health / Wellness,0.6486
+comment,Health / Wellness,0.7579
+post,Miscellaneous,0.8313
+comment,Miscellaneous,0.5719
+comment,Miscellaneous,0.6249
+post,Event,0.9953
+comment,Event,0.6115
+comment,Event,0.5719
+comment,Event,-0.1027
+comment,Event,0.0772
+comment,Event,0.0
+post,Class,0.9423
+post,Prospective Student,0.875
+comment,Prospective Student,0.3182
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+post,PSA,0.0
+comment,PSA,0.0
+comment,PSA,0.0
+post,Finances,-0.0276
+comment,Finances,0.5106
+post,Class,0.4215
+comment,Class,0.0258
+comment,Class,0.0
+comment,Class,0.8519
+comment,Class,0.0
+post,Sports,0.8807
+comment,Sports,0.2023
+comment,Sports,0.9371
+comment,Sports,0.8271
+post,Prospective Student,0.7783
+comment,Prospective Student,0.9371
+comment,Prospective Student,0.8883
+comment,Prospective Student,0.9349
+post,Meme,0.0
+post,Miscellaneous,-0.3252
+comment,Miscellaneous,-0.4215
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4588
+comment,Miscellaneous,0.2023
+comment,Miscellaneous,-0.4215
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,Health / Wellness,0.3818
+comment,Health / Wellness,0.7184
+comment,Health / Wellness,0.0
+post,Meme,0.0
+comment,Meme,0.802
+comment,Meme,0.3612
+post,Housing,0.0
+comment,Housing,0.296
+comment,Housing,0.0
+comment,Housing,0.9584
+comment,Housing,0.936
+comment,Housing,0.8979
+comment,Housing,0.9081
+comment,Housing,0.7269
+post,Student Organization,0.9904
+comment,Student Organization,0.0
+comment,Student Organization,0.9665
+post,Class,0.0
+comment,Class,0.5859
+post,Prospective Student,0.6249
+comment,Prospective Student,0.5994
+post,Media,0.0
+post,Class,0.4939
+comment,Class,0.4404
+comment,Class,0.8442
+comment,Class,0.6808
+comment,Class,0.8442
+post,Miscellaneous,-0.7565
+comment,Miscellaneous,0.9246
+comment,Miscellaneous,0.024
+comment,Miscellaneous,-0.1765
+comment,Miscellaneous,0.9274
+comment,Miscellaneous,0.8316
+post,Meme,0.0
+comment,Meme,0.7845
+comment,Meme,0.4404
+post,New Student,-0.8515
+comment,New Student,0.9617
+comment,New Student,0.7184
+comment,New Student,-0.4019
+comment,New Student,0.9796
+comment,New Student,0.9246
+comment,New Student,-0.5423
+comment,New Student,-0.6486
+comment,New Student,0.4215
+comment,New Student,-0.9552
+comment,New Student,0.3182
+comment,New Student,-0.2023
+comment,New Student,0.9382
+comment,New Student,-0.1567
+comment,New Student,0.7275
+comment,New Student,0.8615
+comment,New Student,0.0
+comment,New Student,0.8303
+comment,New Student,0.9749
+post,Housing,0.2732
+comment,Housing,0.1779
+comment,Housing,0.4404
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,None,0.4939
+comment,None,0.5106
+comment,None,0.4627
+comment,None,0.4588
+comment,None,-0.5106
+post,Prospective Student,0.7579
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.5994
+comment,Prospective Student,0.2023
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.9666
+comment,Prospective Student,0.9943
+comment,Prospective Student,0.9644
+comment,Prospective Student,0.8354
+comment,Prospective Student,0.9001
+comment,Prospective Student,0.9652
+post,Sports,0.0
+post,COVID-19,0.7096
+comment,COVID-19,0.0
+comment,COVID-19,0.9286
+comment,COVID-19,0.2732
+comment,COVID-19,0.6249
+comment,COVID-19,0.6249
+comment,COVID-19,0.0
+comment,COVID-19,0.967
+comment,COVID-19,0.4939
+comment,COVID-19,0.6369
+comment,COVID-19,0.0
+post,Class,0.0
+post,Satellite Campus,0.0
+comment,Satellite Campus,0.7096
+post,Finances,-0.0
+comment,Finances,0.9617
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.3291
+comment,COVID-19,0.6249
+comment,COVID-19,0.9561
+comment,COVID-19,0.0
+comment,COVID-19,0.5859
+comment,COVID-19,-0.743
+comment,COVID-19,-0.6369
+comment,COVID-19,-0.6124
+comment,COVID-19,0.0516
+comment,COVID-19,0.1494
+comment,COVID-19,0.6298
+comment,COVID-19,0.0
+post,New Student,0.0
+comment,New Student,0.9501
+comment,New Student,0.8126
+post,New Student,0.743
+comment,New Student,0.7178
+comment,New Student,0.4404
+comment,New Student,-0.1027
+comment,New Student,0.4404
+comment,New Student,0.3612
+comment,New Student,0.6249
+comment,New Student,0.0
+post,Satellite Campus,0.9022
+comment,Satellite Campus,0.8555
+post,Event,0.0
+comment,Event,0.1027
+comment,Event,0.3182
+comment,Event,0.6908
+post,COVID-19,0.0
+post,Sports,0.0
+comment,Sports,0.2023
+comment,Sports,0.3182
+post,Miscellaneous,0.3612
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4215
+post,Class,0.3182
+comment,Class,-0.1189
+comment,Class,0.9062
+comment,Class,0.3818
+comment,Class,0.4201
+comment,Class,0.0
+post,New Student,0.6808
+comment,New Student,0.7841
+comment,New Student,0.908
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.8271
+comment,Meme,-0.2023
+comment,Meme,0.4404
+comment,Meme,0.5859
+comment,Meme,0.0
+comment,Meme,-0.3182
+comment,Meme,0.7184
+comment,Meme,0.0
+comment,Meme,0.0
+post,Prospective Student,0.9393
+comment,Prospective Student,0.4215
+comment,Prospective Student,0.7902
+comment,Prospective Student,0.4939
+comment,Prospective Student,0.9451
+comment,Prospective Student,0.8442
+comment,Prospective Student,0.875
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.3182
+comment,Academics - Other Topics,0.7269
+post,Meme,0.0
+comment,Meme,0.8936
+comment,Meme,0.9001
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.5423
+post,Meme,0.0
+comment,Meme,-0.2315
+comment,Meme,0.296
+comment,Meme,0.93
+comment,Meme,-0.25
+comment,Meme,0.3612
+comment,Meme,0.4404
+comment,Meme,0.5859
+post,Prospective Student,0.6712
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6597
+comment,Prospective Student,0.6597
+post,Sports,0.0
+post,Degree,0.5106
+comment,Degree,0.5106
+comment,Degree,0.8363
+comment,Degree,-0.6124
+comment,Degree,0.3182
+post,Prospective Student,0.9738
+comment,Prospective Student,0.9355
+comment,Prospective Student,0.0
+post,Class,0.4019
+post,Sports,0.0
+comment,Sports,0.3612
+comment,Sports,0.6249
+comment,Sports,0.0772
+comment,Sports,0.0772
+comment,Sports,0.7783
+comment,Sports,0.0
+comment,Sports,0.7351
+comment,Sports,0.0
+post,Prospective Student,0.9456
+comment,Prospective Student,0.9633
+comment,Prospective Student,0.34
+post,COVID-19,0.0
+comment,COVID-19,0.7964
+comment,COVID-19,0.4404
+comment,COVID-19,0.0516
+comment,COVID-19,0.4404
+comment,COVID-19,0.4215
+comment,COVID-19,0.765
+comment,COVID-19,0.0
+comment,COVID-19,0.4767
+post,Health / Wellness,-0.4019
+comment,Health / Wellness,0.9153
+comment,Health / Wellness,0.7533
+comment,Health / Wellness,0.1027
+post,Class,-0.5423
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,-0.4404
+post,Degree,0.0
+comment,Degree,0.0
+post,Housing,0.9246
+comment,Housing,0.9545
+comment,Housing,0.7506
+comment,Housing,0.9618
+comment,Housing,0.9851
+post,Event,0.0
+comment,Event,0.3612
+comment,Event,0.34
+comment,Event,0.3182
+comment,Event,0.0
+post,Meme,0.0
+comment,Meme,-0.5423
+comment,Meme,0.0
+comment,Meme,0.7845
+comment,Meme,0.4019
+comment,Meme,0.0516
+comment,Meme,0.0
+comment,Meme,-0.6249
+post,Housing,0.8074
+comment,Housing,-0.0516
+comment,Housing,0.3036
+post,Finances,-0.296
+comment,Finances,-0.3818
+post,Employment,0.8591
+comment,Employment,0.9118
+comment,Employment,-0.4019
+comment,Employment,0.0
+comment,Employment,0.0
+post,Media,0.0
+comment,Media,0.886
+comment,Media,0.0258
+comment,Media,0.3182
+comment,Media,0.0
+comment,Media,0.7783
+post,Prospective Student,0.8807
+comment,Prospective Student,0.7506
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9855
+post,Class,0.8807
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,-0.4019
+comment,Class,0.4939
+comment,Class,0.6478
+post,Sports,0.4588
+comment,Sports,0.296
+post,Prospective Student,0.8555
+comment,Prospective Student,0.8606
+comment,Prospective Student,0.8869
+comment,Prospective Student,0.924
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.3353
+comment,Prospective Student,0.5859
+comment,Prospective Student,0.4767
+post,Class,0.8923
+comment,Class,-0.128
+comment,Class,-0.296
+comment,Class,0.34
+comment,Class,0.6124
+comment,Class,0.0
+comment,Class,0.4939
+post,Miscellaneous,-0.4105
+comment,Miscellaneous,0.3612
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.9042
+comment,Miscellaneous,0.1779
+post,Employment,0.0
+comment,Employment,0.0
+comment,Employment,0.0
+post,Sports,0.0
+comment,Sports,-0.6249
+comment,Sports,0.3612
+comment,Sports,0.2263
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,-0.2732
+comment,Sports,-0.6808
+comment,Sports,-0.0516
+comment,Sports,0.4588
+post,New Student,0.8625
+comment,New Student,0.9565
+post,Miscellaneous,0.9552
+comment,Miscellaneous,0.847
+comment,Miscellaneous,0.4404
+post,Prospective Student,0.9743
+comment,Prospective Student,0.8957
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6136
+comment,Prospective Student,0.4939
+post,COVID-19,0.8225
+comment,COVID-19,0.0
+comment,COVID-19,0.8555
+post,Event,0.0
+comment,Event,0.0
+comment,Event,0.0
+comment,Event,0.1779
+post,Prospective Student,0.886
+comment,Prospective Student,0.7003
+comment,Prospective Student,0.7783
+post,Meta,-0.9913
+comment,Meta,0.802
+comment,Meta,-0.8316
+comment,Meta,-0.9081
+comment,Meta,0.9489
+post,Degree,0.9854
+comment,Degree,0.0
+comment,Degree,0.81
+comment,Degree,0.0
+post,Health / Wellness,0.0
+comment,Health / Wellness,0.0772
+comment,Health / Wellness,0.5267
+comment,Health / Wellness,0.7579
+comment,Health / Wellness,0.7906
+comment,Health / Wellness,0.9274
+comment,Health / Wellness,0.1531
+comment,Health / Wellness,0.9423
+comment,Health / Wellness,0.0
+post,Social,0.0
+comment,Social,-0.4019
+post,Health / Wellness,0.8885
+comment,Health / Wellness,-0.3612
+comment,Health / Wellness,0.9337
+comment,Health / Wellness,0.4391
+comment,Health / Wellness,0.7402
+post,Academics - Other Topics,0.8832
+comment,Academics - Other Topics,0.6022
+post,Finances,-0.3907
+comment,Finances,0.9755
+comment,Finances,0.0
+comment,Finances,0.0276
+comment,Finances,0.9273
+comment,Finances,0.9828
+post,Prospective Student,0.7506
+post,Miscellaneous,0.926
+comment,Miscellaneous,0.9451
+comment,Miscellaneous,0.0516
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.5106
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.6597
+post,Class,0.4754
+comment,Class,-0.3612
+comment,Class,0.8716
+comment,Class,-0.4215
+post,Class,0.0
+comment,Class,0.3612
+comment,Class,0.7964
+comment,Class,-0.9565
+comment,Class,0.0
+comment,Class,0.128
+comment,Class,0.7783
+comment,Class,0.2263
+comment,Class,0.0
+comment,Class,0.4019
+comment,Class,-0.34
+comment,Class,-0.1761
+comment,Class,0.4588
+comment,Class,-0.8442
+comment,Class,0.5719
+comment,Class,0.1045
+post,Prospective Student,0.8598
+comment,Prospective Student,0.7003
+post,Degree,0.4404
+comment,Degree,0.1298
+comment,Degree,0.4005
+post,Housing,0.886
+comment,Housing,0.0
+comment,Housing,0.3612
+post,Academics - Other Topics,0.9516
+comment,Academics - Other Topics,0.9854
+comment,Academics - Other Topics,0.0
+post,Class,0.6908
+comment,Class,0.4939
+comment,Class,0.4939
+post,Prospective Student,0.9924
+comment,Prospective Student,0.9559
+comment,Prospective Student,0.9687
+comment,Prospective Student,0.8858
+post,Sports,0.5859
+comment,Sports,0.1779
+comment,Sports,-0.4927
+comment,Sports,0.8795
+comment,Sports,-0.7003
+comment,Sports,0.1027
+post,Sports,0.7351
+comment,Sports,-0.5423
+comment,Sports,-0.3182
+comment,Sports,-0.5423
+post,Event,0.4404
+comment,Event,-0.5994
+comment,Event,0.2023
+post,Prospective Student,0.9201
+post,New Student,0.9627
+comment,New Student,0.4404
+comment,New Student,0.5106
+comment,New Student,0.0
+post,Academics - Other Topics,-0.296
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.4019
+post,Sports,0.0
+post,Miscellaneous,0.8037
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.5994
+comment,Miscellaneous,0.128
+comment,Miscellaneous,0.128
+comment,Miscellaneous,-0.7514
+comment,Miscellaneous,-0.7845
+post,Prospective Student,0.296
+comment,Prospective Student,0.9338
+comment,Prospective Student,-0.1531
+post,Prospective Student,-0.3818
+post,Sports,0.9442
+comment,Sports,0.4215
+post,Employment,0.9886
+comment,Employment,0.6461
+comment,Employment,0.9931
+comment,Employment,0.0
+comment,Employment,0.0
+comment,Employment,0.8591
+post,Miscellaneous,-0.4215
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.892
+comment,Miscellaneous,-0.9136
+comment,Miscellaneous,-0.9022
+post,Miscellaneous,0.0
+comment,Miscellaneous,-0.1531
+comment,Miscellaneous,0.4588
+comment,Miscellaneous,0.0
+post,Employment,-0.2732
+comment,Employment,0.9326
+comment,Employment,0.7717
+comment,Employment,-0.34
+post,Housing,0.453
+comment,Housing,0.0
+comment,Housing,0.2023
+comment,Housing,0.0
+post,Employment,-0.4445
+comment,Employment,0.9274
+comment,Employment,0.8364
+comment,Employment,0.7089
+comment,Employment,0.9184
+comment,Employment,0.4019
+comment,Employment,0.0258
+comment,Employment,0.4019
+comment,Employment,0.8591
+comment,Employment,0.7034
+comment,Employment,0.927
+comment,Employment,-0.5574
+comment,Employment,0.9812
+comment,Employment,0.6486
+comment,Employment,0.9437
+comment,Employment,0.9153
+comment,Employment,-0.5994
+comment,Employment,0.5574
+comment,Employment,0.3818
+comment,Employment,-0.128
+post,Social,0.7964
+comment,Social,0.1779
+comment,Social,0.6597
+comment,Social,0.0
+comment,Social,0.9828
+post,Class,0.926
+comment,Class,0.6249
+comment,Class,0.0
+post,Housing,0.7717
+comment,Housing,0.3818
+comment,Housing,0.2732
+comment,Housing,0.0
+post,Housing,0.6597
+comment,Housing,0.8625
+comment,Housing,0.6705
+comment,Housing,0.25
+comment,Housing,0.0
+comment,Housing,-0.125
+post,Housing,0.8176
+comment,Housing,-0.3182
+comment,Housing,0.791
+comment,Housing,0.9201
+comment,Housing,0.0
+post,New Student,0.5729
+comment,New Student,0.8316
+post,Food / Culture,0.296
+comment,Food / Culture,0.9073
+comment,Food / Culture,0.4404
+comment,Food / Culture,0.9403
+comment,Food / Culture,0.8716
+comment,Food / Culture,0.0772
+comment,Food / Culture,0.4404
+comment,Food / Culture,0.3612
+comment,Food / Culture,0.8204
+comment,Food / Culture,0.0
+comment,Food / Culture,0.7579
+comment,Food / Culture,0.6369
+comment,Food / Culture,0.0
+comment,Food / Culture,0.9041
+comment,Food / Culture,0.5859
+comment,Food / Culture,0.9735
+comment,Food / Culture,0.9685
+post,Housing,0.8568
+comment,Housing,0.6997
+comment,Housing,0.7722
+comment,Housing,0.2263
+post,Degree,0.8957
+comment,Degree,0.0
+comment,Degree,0.7579
+post,Academics - Other Topics,0.7357
+comment,Academics - Other Topics,0.5574
+comment,Academics - Other Topics,0.6705
+comment,Academics - Other Topics,-0.3612
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.6597
+comment,Academics - Other Topics,-0.296
+comment,Academics - Other Topics,0.25
+comment,Academics - Other Topics,0.8658
+comment,Academics - Other Topics,0.5994
+post,Prospective Student,0.4404
+comment,Prospective Student,0.92
+comment,Prospective Student,0.6908
+comment,Prospective Student,-0.2716
+comment,Prospective Student,0.5994
+post,Student Organization,0.34
+comment,Student Organization,0.4404
+comment,Student Organization,0.3182
+comment,Student Organization,0.926
+post,Food / Culture,0.6486
+comment,Food / Culture,0.6369
+comment,Food / Culture,0.9062
+comment,Food / Culture,0.0
+comment,Food / Culture,0.0
+post,Degree,0.7906
+comment,Degree,-0.4767
+post,COVID-19,-0.8225
+comment,COVID-19,0.4019
+post,Finances,0.4215
+comment,Finances,0.8074
+post,Housing,0.743
+comment,Housing,0.0
+comment,Housing,0.9423
+comment,Housing,0.8126
+comment,Housing,-0.1027
+comment,Housing,0.0
+post,Housing,0.7003
+comment,Housing,0.6808
+comment,Housing,0.0
+comment,Housing,0.7717
+comment,Housing,0.4019
+comment,Housing,0.0
+comment,Housing,0.7184
+post,PSA,-0.1027
+comment,PSA,0.2263
+comment,PSA,-0.6808
+comment,PSA,0.0
+comment,PSA,0.0
+comment,PSA,0.6486
+post,Finances,0.7269
+comment,Finances,0.7783
+comment,Finances,0.765
+post,Degree,0.5719
+comment,Degree,0.5994
+comment,Degree,0.8591
+post,Degree,0.9403
+comment,Degree,0.9231
+comment,Degree,0.0
+post,Academics - Other Topics,0.3612
+comment,Academics - Other Topics,0.872
+comment,Academics - Other Topics,0.0
+post,Housing,0.8225
+comment,Housing,-0.5729
+comment,Housing,0.6249
+comment,Housing,-0.4779
+comment,Housing,0.6249
+comment,Housing,0.3182
+comment,Housing,0.3182
+comment,Housing,0.886
+post,Miscellaneous,0.9997
+comment,Miscellaneous,0.8689
+post,Prospective Student,0.2732
+comment,Prospective Student,-0.296
+comment,Prospective Student,0.1027
+comment,Prospective Student,0.0772
+comment,Prospective Student,0.0
+comment,Prospective Student,0.743
+comment,Prospective Student,0.6486
+post,Food / Culture,0.6369
+comment,Food / Culture,0.0
+comment,Food / Culture,0.9618
+comment,Food / Culture,0.9545
+post,Prospective Student,0.6705
+comment,Prospective Student,0.2732
+comment,Prospective Student,0.9559
+comment,Prospective Student,0.8176
+post,Prospective Student,0.8442
+comment,Prospective Student,0.3818
+comment,Prospective Student,0.5574
+comment,Prospective Student,0.931
+comment,Prospective Student,0.9856
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.1027
+post,Housing,0.0
+comment,Housing,0.296
+post,Prospective Student,0.4215
+comment,Prospective Student,0.9594
+comment,Prospective Student,0.0
+post,Academics - Other Topics,0.3612
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.5849
+comment,Academics - Other Topics,0.9595
+comment,Academics - Other Topics,0.9571
+comment,Academics - Other Topics,0.7574
+post,Prospective Student,0.5719
+comment,Prospective Student,0.3182
+comment,Prospective Student,0.4588
+comment,Prospective Student,-0.3612
+comment,Prospective Student,0.9531
+post,Finances,0.4416
+comment,Finances,-0.2263
+comment,Finances,-0.3818
+comment,Finances,0.9217
+comment,Finances,0.6705
+post,Degree,0.3818
+comment,Degree,0.0
+comment,Degree,0.6369
+comment,Degree,-0.1531
+post,PSA,0.9705
+comment,PSA,-0.4019
+comment,PSA,0.7357
+comment,PSA,0.5423
+comment,PSA,0.4404
+comment,PSA,0.8176
+comment,PSA,-0.7184
+comment,PSA,0.2023
+comment,PSA,0.7717
+comment,PSA,0.9042
+comment,PSA,0.765
+comment,PSA,0.3182
+comment,PSA,0.0
+comment,PSA,0.9325
+comment,PSA,0.785
+comment,PSA,0.9486
+comment,PSA,0.0
+comment,PSA,0.8519
+comment,PSA,0.4215
+comment,PSA,0.0
+comment,PSA,0.785
+comment,PSA,0.6808
+comment,PSA,0.4215
+comment,PSA,0.802
+comment,PSA,-0.6249
+comment,PSA,0.6705
+comment,PSA,0.4939
+comment,PSA,0.765
+comment,PSA,0.4404
+comment,PSA,0.8979
+comment,PSA,0.0
+comment,PSA,0.2023
+comment,PSA,0.8923
+comment,PSA,-0.6258
+comment,PSA,0.0
+comment,PSA,0.6124
+comment,PSA,0.0
+comment,PSA,0.6369
+comment,PSA,0.7845
+comment,PSA,0.5994
+post,Housing,-0.5994
+comment,Housing,0.9517
+comment,Housing,0.4404
+comment,Housing,0.4767
+comment,Housing,0.4939
+comment,Housing,0.9152
+post,Employment,0.8934
+comment,Employment,0.0
+post,Health / Wellness,0.7258
+comment,Health / Wellness,0.9874
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.8977
+comment,Health / Wellness,-0.2058
+comment,Health / Wellness,0.0
+post,Event,0.4019
+comment,Event,0.0
+comment,Event,0.6124
+comment,Event,-0.0516
+comment,Event,0.7506
+comment,Event,-0.4939
+comment,Event,0.9423
+comment,Event,-0.6249
+comment,Event,0.0
+comment,Event,0.1548
+comment,Event,0.4215
+comment,Event,0.4019
+comment,Event,0.8689
+post,Prospective Student,0.8173
+comment,Prospective Student,0.5267
+comment,Prospective Student,0.5106
+post,Degree,0.9485
+comment,Degree,0.9211
+comment,Degree,0.9468
+post,Social,0.9718
+comment,Social,0.0
+post,Prospective Student,0.9847
+comment,Prospective Student,0.9847
+comment,Prospective Student,0.9661
+comment,Prospective Student,0.7184
+comment,Prospective Student,0.9709
+comment,Prospective Student,0.9565
+comment,Prospective Student,0.0516
+comment,Prospective Student,-0.6808
+comment,Prospective Student,0.0
+post,Housing,0.3612
+comment,Housing,0.296
+comment,Housing,0.8519
+comment,Housing,0.0
+post,Degree,0.926
+comment,Degree,0.0772
+comment,Degree,0.0
+comment,Degree,0.7506
+comment,Degree,0.7783
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.9682
+post,Prospective Student,0.7964
+comment,Prospective Student,0.936
+comment,Prospective Student,0.9538
+comment,Prospective Student,0.9756
+comment,Prospective Student,0.4754
+comment,Prospective Student,0.7351
+post,Class,0.1531
+comment,Class,0.0
+comment,Class,0.6486
+comment,Class,0.0
+post,Degree,0.5563
+comment,Degree,-0.2023
+comment,Degree,-0.3612
+post,Social,0.5267
+comment,Social,0.0
+comment,Social,0.0
+comment,Social,0.0
+comment,Social,-0.4019
+comment,Social,-0.6808
+post,COVID-19,0.7964
+comment,COVID-19,0.3182
+comment,COVID-19,0.5574
+comment,COVID-19,0.5106
+comment,COVID-19,0.8225
+comment,COVID-19,0.1263
+comment,COVID-19,0.2732
+comment,COVID-19,0.8407
+comment,COVID-19,-0.4404
+comment,COVID-19,-0.34
+post,Food / Culture,0.0
+comment,Food / Culture,0.9947
+comment,Food / Culture,0.7906
+comment,Food / Culture,0.7269
+comment,Food / Culture,0.128
+comment,Food / Culture,0.4588
+comment,Food / Culture,0.9949
+comment,Food / Culture,0.976
+comment,Food / Culture,0.6597
+comment,Food / Culture,0.9801
+comment,Food / Culture,0.7351
+comment,Food / Culture,0.6858
+post,Class,0.8316
+comment,Class,0.0609
+comment,Class,0.4201
+post,Health / Wellness,0.8405
+comment,Health / Wellness,0.8689
+comment,Health / Wellness,0.9578
+comment,Health / Wellness,0.9136
+comment,Health / Wellness,0.4939
+post,Prospective Student,0.5267
+post,Degree,0.1779
+comment,Degree,0.1027
+post,Housing,0.1027
+comment,Housing,0.4019
+post,Class,0.6564
+comment,Class,0.9313
+comment,Class,0.0
+post,Degree,0.6908
+comment,Degree,0.6124
+comment,Degree,0.9281
+comment,Degree,0.079
+comment,Degree,0.0
+comment,Degree,0.7845
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.4215
+comment,COVID-19,0.4588
+post,Housing,0.5859
+comment,Housing,0.8718
+post,Food / Culture,-0.3818
+comment,Food / Culture,-0.296
+comment,Food / Culture,-0.7196
+comment,Food / Culture,0.4215
+comment,Food / Culture,0.3612
+comment,Food / Culture,0.4404
+comment,Food / Culture,-0.7906
+comment,Food / Culture,-0.6597
+comment,Food / Culture,0.743
+comment,Food / Culture,-0.1779
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.1779
+comment,Food / Culture,-0.3412
+comment,Food / Culture,0.6713
+comment,Food / Culture,0.0516
+comment,Food / Culture,0.4404
+comment,Food / Culture,0.6249
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.7351
+comment,Food / Culture,0.0
+comment,Food / Culture,0.3612
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.8225
+comment,Food / Culture,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.0717
+post,Class,0.9715
+comment,Class,0.9136
+comment,Class,0.5106
+post,Event,0.9933
+post,PSA,-0.5106
+comment,PSA,0.4215
+comment,PSA,0.0
+post,COVID-19,0.0
+post,Sports,0.0
+post,Research,0.6369
+comment,Research,0.4939
+comment,Research,-0.1779
+comment,Research,0.0
+post,Miscellaneous,0.4939
+comment,Miscellaneous,0.8442
+comment,Miscellaneous,0.8265
+comment,Miscellaneous,0.9022
+comment,Miscellaneous,0.25
+post,Degree,0.796
+comment,Degree,0.0
+post,Housing,0.3182
+comment,Housing,0.0
+comment,Housing,0.0
+comment,Housing,0.4201
+post,PSA,0.8979
+post,Housing,0.8176
+comment,Housing,0.765
+post,Meme,0.0
+comment,Meme,0.4215
+comment,Meme,0.0
+post,Student Organization,-0.4019
+comment,Student Organization,-0.4019
+comment,Student Organization,0.0
+post,COVID-19,0.6378
+comment,COVID-19,0.5994
+comment,COVID-19,0.7906
+post,Finances,0.7089
+post,Degree,0.9493
+comment,Degree,0.886
+comment,Degree,0.802
+post,Media,0.0
+post,Housing,0.8221
+comment,Housing,0.7964
+comment,Housing,0.9889
+post,Food / Culture,0.0
+comment,Food / Culture,0.4767
+comment,Food / Culture,0.296
+comment,Food / Culture,0.0
+comment,Food / Culture,0.7184
+comment,Food / Culture,0.128
+comment,Food / Culture,0.0
+comment,Food / Culture,0.1027
+post,COVID-19,0.0
+post,Student Organization,0.3037
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.6705
+comment,Miscellaneous,0.5106
+post,Employment,0.875
+comment,Employment,0.4939
+comment,Employment,0.0516
+comment,Employment,0.0
+comment,Employment,-0.1779
+comment,Employment,-0.765
+post,Food / Culture,0.0
+comment,Food / Culture,0.0
+post,Prospective Student,0.9973
+comment,Prospective Student,0.9802
+comment,Prospective Student,0.986
+comment,Prospective Student,0.7469
+comment,Prospective Student,0.9779
+post,Sports,0.0
+comment,Sports,0.8241
+comment,Sports,0.0
+comment,Sports,0.0
+post,Finances,0.3612
+comment,Finances,0.4019
+post,Prospective Student,0.5423
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5994
+post,Prospective Student,0.9545
+comment,Prospective Student,0.7184
+comment,Prospective Student,0.7964
+comment,Prospective Student,0.7351
+comment,Prospective Student,0.6808
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.1027
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.9403
+comment,Miscellaneous,0.7351
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+post,Academics - Other Topics,-0.1531
+comment,Academics - Other Topics,0.5994
+comment,Academics - Other Topics,-0.4019
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.8032
+comment,Academics - Other Topics,0.9539
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.25
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.9799
+comment,Academics - Other Topics,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.4754
+comment,COVID-19,0.4927
+comment,COVID-19,0.9544
+post,Housing,0.4939
+comment,Housing,0.9656
+comment,Housing,0.0
+post,Media,0.0
+comment,Media,0.0077
+comment,Media,0.2263
+comment,Media,0.7717
+comment,Media,0.0258
+comment,Media,0.8225
+post,Class,0.0
+comment,Class,0.3612
+comment,Class,0.0
+comment,Class,0.3182
+post,Academics - Other Topics,0.9567
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.5859
+comment,Academics - Other Topics,0.296
+comment,Academics - Other Topics,0.7579
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.296
+post,COVID-19,-0.9737
+comment,COVID-19,0.8519
+post,COVID-19,0.8176
+comment,COVID-19,0.0
+comment,COVID-19,0.83
+comment,COVID-19,0.0
+comment,COVID-19,0.2732
+comment,COVID-19,0.8532
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.49
+post,COVID-19,0.0
+comment,COVID-19,-0.3182
+post,Housing,0.1027
+comment,Housing,0.7717
+comment,Housing,0.9325
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.6808
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0772
+comment,COVID-19,0.3612
+comment,COVID-19,0.0
+post,Prospective Student,0.802
+comment,Prospective Student,0.9719
+comment,Prospective Student,0.9957
+comment,Prospective Student,0.9837
+post,COVID-19,0.995
+post,COVID-19,0.4404
+comment,COVID-19,-0.2732
+comment,COVID-19,0.4939
+comment,COVID-19,0.0
+post,PSA,0.0
+comment,PSA,0.8718
+comment,PSA,0.8225
+comment,PSA,0.0
+post,Prospective Student,0.9001
+comment,Prospective Student,0.8555
+comment,Prospective Student,0.5719
+post,New Student,0.9392
+comment,New Student,0.9242
+post,Class,-0.2944
+comment,Class,0.7269
+post,Prospective Student,0.9798
+comment,Prospective Student,0.4019
+comment,Prospective Student,0.9432
+comment,Prospective Student,0.0
+post,Meme,0.0
+post,Sports,0.0
+comment,Sports,0.7579
+comment,Sports,0.296
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.5994
+comment,Sports,0.3818
+comment,Sports,0.5267
+comment,Sports,0.6908
+comment,Sports,-0.5719
+comment,Sports,-0.3818
+comment,Sports,-0.4767
+comment,Sports,-0.5574
+comment,Sports,-0.3818
+comment,Sports,0.0
+post,COVID-19,0.9856
+post,Class,-0.296
+comment,Class,0.2023
+comment,Class,-0.296
+comment,Class,0.8176
+comment,Class,0.0
+comment,Class,0.0
+post,Social,0.9555
+comment,Social,0.9357
+comment,Social,0.8807
+comment,Social,0.8126
+comment,Social,0.765
+comment,Social,-0.5423
+comment,Social,0.7895
+comment,Social,0.9451
+comment,Social,0.6901
+comment,Social,0.0772
+comment,Social,0.3612
+comment,Social,0.9517
+comment,Social,0.5859
+post,Health / Wellness,-0.6249
+comment,Health / Wellness,0.4404
+comment,Health / Wellness,0.0772
+comment,Health / Wellness,0.6808
+comment,Health / Wellness,-0.7506
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-0.7184
+comment,Health / Wellness,-0.7732
+comment,Health / Wellness,0.5994
+post,Employment,0.0
+post,Sports,0.7184
+post,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,0.6369
+comment,COVID-19,0.7579
+comment,COVID-19,0.0
+post,COVID-19,0.9451
+comment,COVID-19,-0.5719
+comment,COVID-19,-0.0772
+comment,COVID-19,0.0
+comment,COVID-19,0.2732
+comment,COVID-19,0.5106
+comment,COVID-19,-0.1531
+comment,COVID-19,0.128
+comment,COVID-19,0.7184
+comment,COVID-19,0.4767
+comment,COVID-19,-0.7003
+comment,COVID-19,0.0
+comment,COVID-19,-0.2263
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.2228
+comment,COVID-19,0.5719
+comment,COVID-19,0.4767
+comment,COVID-19,-0.624
+comment,COVID-19,0.0516
+comment,COVID-19,0.1027
+comment,COVID-19,0.4404
+comment,COVID-19,0.8519
+comment,COVID-19,0.3612
+comment,COVID-19,0.4417
+comment,COVID-19,0.0
+comment,COVID-19,-0.296
+comment,COVID-19,-0.34
+comment,COVID-19,0.4005
+comment,COVID-19,0.0
+comment,COVID-19,0.4939
+comment,COVID-19,0.9348
+comment,COVID-19,0.8484
+comment,COVID-19,0.0
+comment,COVID-19,-0.4215
+comment,COVID-19,-0.0516
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,-0.8828
+comment,COVID-19,0.5106
+comment,COVID-19,-0.5574
+comment,COVID-19,0.6249
+comment,COVID-19,-0.4215
+comment,COVID-19,0.4588
+comment,COVID-19,0.8271
+comment,COVID-19,0.0
+comment,COVID-19,0.7351
+comment,COVID-19,0.0
+comment,COVID-19,0.4588
+comment,COVID-19,0.872
+comment,COVID-19,0.0
+comment,COVID-19,0.0258
+comment,COVID-19,-0.5849
+comment,COVID-19,0.5719
+comment,COVID-19,0.8981
+comment,COVID-19,0.5994
+comment,COVID-19,-0.0258
+comment,COVID-19,0.6369
+comment,COVID-19,0.2023
+comment,COVID-19,0.0
+comment,COVID-19,-0.4767
+comment,COVID-19,0.0
+comment,COVID-19,0.9682
+comment,COVID-19,-0.0772
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.34
+comment,COVID-19,0.0
+comment,COVID-19,-0.2449
+post,COVID-19,0.9023
+comment,COVID-19,0.5994
+comment,COVID-19,0.0
+comment,COVID-19,-0.2263
+post,Sports,-0.7629
+comment,Sports,0.7776
+comment,Sports,-0.6361
+comment,Sports,0.9186
+post,Academics - Other Topics,0.8225
+comment,Academics - Other Topics,0.9961
+comment,Academics - Other Topics,0.9259
+comment,Academics - Other Topics,0.6249
+post,Class,0.0
+comment,Class,0.0
+comment,Class,0.3612
+post,Media,0.0
+post,COVID-19,0.7845
+comment,COVID-19,-0.5106
+comment,COVID-19,0.4019
+comment,COVID-19,0.91
+comment,COVID-19,0.836
+comment,COVID-19,-0.5256
+post,COVID-19,-0.5106
+comment,COVID-19,0.6369
+comment,COVID-19,0.0
+post,Housing,0.5568
+comment,Housing,-0.5267
+comment,Housing,0.4939
+post,Academics - Other Topics,0.3612
+comment,Academics - Other Topics,-0.296
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.7506
+comment,Academics - Other Topics,0.8834
+post,Sports,0.0
+comment,Sports,0.7564
+comment,Sports,0.0
+post,Degree,0.0
+post,COVID-19,0.3353
+comment,COVID-19,0.6605
+post,Academics - Other Topics,0.0
+post,News,0.4404
+comment,News,0.9349
+post,Miscellaneous,0.0
+comment,Miscellaneous,-0.296
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.3612
+comment,Miscellaneous,0.3182
+comment,Miscellaneous,0.296
+comment,Miscellaneous,0.0
+post,Food / Culture,0.802
+comment,Food / Culture,0.7906
+comment,Food / Culture,0.6369
+comment,Food / Culture,0.0
+comment,Food / Culture,0.0
+comment,Food / Culture,0.8481
+comment,Food / Culture,0.9756
+comment,Food / Culture,0.743
+comment,Food / Culture,0.4404
+comment,Food / Culture,0.0258
+comment,Food / Culture,-0.765
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.6369
+comment,Food / Culture,0.8074
+comment,Food / Culture,0.8402
+comment,Food / Culture,0.0941
+comment,Food / Culture,0.6369
+comment,Food / Culture,0.6124
+comment,Food / Culture,-0.4404
+comment,Food / Culture,0.5889
+comment,Food / Culture,0.4404
+post,Class,-0.2484
+comment,Class,0.3612
+comment,Class,0.2006
+post,Health / Wellness,0.3182
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.6124
+comment,Health / Wellness,-0.1027
+comment,Health / Wellness,0.9062
+post,Employment,0.0
+comment,Employment,0.296
+comment,Employment,0.0
+comment,Employment,0.0
+comment,Employment,0.0
+comment,Employment,-0.5106
+post,Sports,0.8689
+comment,Sports,0.0
+post,Prospective Student,0.4404
+comment,Prospective Student,0.8126
+comment,Prospective Student,-0.0516
+comment,Prospective Student,0.8253
+post,Media,0.0
+post,COVID-19,0.9873
+comment,COVID-19,0.4588
+comment,COVID-19,0.34
+comment,COVID-19,0.8555
+comment,COVID-19,0.5908
+comment,COVID-19,0.296
+comment,COVID-19,-0.2732
+comment,COVID-19,0.9657
+comment,COVID-19,0.2263
+post,Sports,0.6249
+comment,Sports,0.9873
+comment,Sports,0.4939
+comment,Sports,0.1513
+post,Miscellaneous,0.9601
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.6597
+comment,Miscellaneous,0.9712
+comment,Miscellaneous,0.9608
+comment,Miscellaneous,0.9607
+comment,Miscellaneous,0.9865
+comment,Miscellaneous,0.9797
+comment,Miscellaneous,0.994
+comment,Miscellaneous,0.9711
+comment,Miscellaneous,0.9707
+comment,Miscellaneous,0.9382
+comment,Miscellaneous,0.9904
+comment,Miscellaneous,0.9796
+comment,Miscellaneous,0.6213
+comment,Miscellaneous,0.9763
+comment,Miscellaneous,0.8271
+comment,Miscellaneous,0.765
+comment,Miscellaneous,0.9761
+post,Food / Culture,0.802
+comment,Food / Culture,0.91
+comment,Food / Culture,-0.2023
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.3353
+comment,Food / Culture,0.8316
+comment,Food / Culture,0.8834
+comment,Food / Culture,0.947
+comment,Food / Culture,0.9854
+comment,Food / Culture,0.9954
+comment,Food / Culture,0.872
+comment,Food / Culture,-0.296
+comment,Food / Culture,0.983
+comment,Food / Culture,0.0
+comment,Food / Culture,0.9905
+comment,Food / Culture,0.7351
+comment,Food / Culture,0.0516
+comment,Food / Culture,0.9778
+comment,Food / Culture,0.9393
+comment,Food / Culture,0.8519
+comment,Food / Culture,0.0
+comment,Food / Culture,0.866
+comment,Food / Culture,-0.0516
+post,Class,-0.6808
+comment,Class,0.8442
+comment,Class,0.128
+comment,Class,0.7645
+post,COVID-19,-0.2263
+comment,COVID-19,0.0
+comment,COVID-19,-0.4939
+comment,COVID-19,-0.296
+comment,COVID-19,0.0
+post,Class,0.8126
+comment,Class,0.9382
+comment,Class,0.3612
+comment,Class,0.8896
+comment,Class,0.9823
+comment,Class,0.936
+comment,Class,-0.1027
+post,New Student,0.7964
+comment,New Student,0.4588
+comment,New Student,-0.7003
+comment,New Student,-0.2732
+comment,New Student,0.5719
+comment,New Student,0.5106
+comment,New Student,-0.25
+post,Academics - Other Topics,0.8074
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.8625
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.4404
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.2023
+comment,Academics - Other Topics,0.0
+post,Class,0.0
+post,Satellite Campus,-0.7579
+comment,Satellite Campus,0.7641
+comment,Satellite Campus,0.4588
+comment,Satellite Campus,0.6249
+post,New Student,0.7845
+comment,New Student,0.9859
+comment,New Student,0.9682
+comment,New Student,0.9675
+comment,New Student,0.936
+post,Meme,0.0
+comment,Meme,0.3612
+comment,Meme,0.3182
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.3612
+post,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0772
+comment,Sports,0.0
+comment,Sports,0.4588
+post,Meme,0.0
+comment,Meme,0.0
+post,Miscellaneous,0.6124
+comment,Miscellaneous,-0.0516
+comment,Miscellaneous,0.9545
+comment,Miscellaneous,0.8402
+post,New Student,-0.4019
+comment,New Student,0.0
+comment,New Student,0.9081
+comment,New Student,0.0
+post,Housing,0.7713
+comment,Housing,0.0
+comment,Housing,0.3612
+post,Prospective Student,0.9839
+comment,Prospective Student,0.6597
+comment,Prospective Student,0.8957
+comment,Prospective Student,0.9926
+comment,Prospective Student,0.9547
+post,Degree,-0.2263
+comment,Degree,0.0
+post,Event,0.4767
+post,New Student,-0.9641
+comment,New Student,0.1027
+comment,New Student,0.8126
+comment,New Student,0.7005
+comment,New Student,0.9637
+comment,New Student,-0.296
+comment,New Student,0.9857
+post,Class,0.0
+comment,Class,0.3818
+comment,Class,0.0
+comment,Class,0.5859
+comment,Class,0.6369
+comment,Class,0.0
+comment,Class,0.6249
+comment,Class,0.9393
+comment,Class,0.2732
+comment,Class,0.6369
+comment,Class,0.2023
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4404
+post,Finances,0.5106
+comment,Finances,-0.3182
+post,Class,0.8197
+comment,Class,0.0
+post,Prospective Student,0.8957
+comment,Prospective Student,0.8979
+comment,Prospective Student,0.765
+comment,Prospective Student,0.5177
+comment,Prospective Student,0.5267
+post,Prospective Student,0.9888
+comment,Prospective Student,0.9947
+comment,Prospective Student,0.765
+comment,Prospective Student,0.9413
+comment,Prospective Student,0.9912
+post,Class,0.6249
+comment,Class,0.3818
+comment,Class,0.25
+comment,Class,0.4404
+comment,Class,0.7783
+comment,Class,0.4939
+comment,Class,0.8625
+comment,Class,0.765
+comment,Class,0.4215
+comment,Class,0.9313
+comment,Class,0.0
+comment,Class,0.4404
+comment,Class,0.0
+comment,Class,0.7783
+comment,Class,0.8481
+comment,Class,0.675
+comment,Class,0.6597
+comment,Class,0.0772
+comment,Class,0.3612
+comment,Class,0.7197
+comment,Class,0.0
+comment,Class,-0.4939
+comment,Class,0.296
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.7783
+comment,Class,-0.0498
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4404
+comment,Class,0.8625
+comment,Class,0.5859
+comment,Class,0.6253
+comment,Class,0.128
+comment,Class,0.8689
+comment,Class,0.0
+comment,Class,0.8126
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.8425
+comment,Class,0.9617
+comment,Class,-0.0258
+comment,Class,0.2023
+comment,Class,0.0
+comment,Class,0.4215
+comment,Class,0.3612
+comment,Class,0.577
+comment,Class,0.9284
+comment,Class,0.8271
+comment,Class,0.7178
+comment,Class,0.0
+comment,Class,0.5627
+comment,Class,0.4767
+comment,Class,0.3612
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4404
+comment,Class,-0.1725
+comment,Class,0.7351
+comment,Class,-0.0352
+comment,Class,0.4215
+comment,Class,0.4939
+comment,Class,-0.4019
+comment,Class,0.6249
+comment,Class,0.9274
+comment,Class,0.985
+comment,Class,0.0
+comment,Class,-0.25
+comment,Class,0.4404
+comment,Class,0.3818
+comment,Class,0.0
+comment,Class,0.6249
+comment,Class,0.1513
+comment,Class,0.8957
+comment,Class,0.0
+comment,Class,-0.7845
+comment,Class,0.0
+comment,Class,0.5859
+comment,Class,0.4588
+comment,Class,0.2023
+comment,Class,-0.5994
+comment,Class,-0.4404
+comment,Class,0.4767
+comment,Class,0.0
+comment,Class,0.6808
+comment,Class,0.0
+comment,Class,0.886
+comment,Class,0.6369
+comment,Class,0.9042
+comment,Class,0.0
+comment,Class,0.1779
+comment,Class,0.9413
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4404
+comment,Class,0.5423
+comment,Class,0.0
+comment,Class,0.5994
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4019
+comment,Class,0.0258
+comment,Class,0.4404
+comment,Class,0.7351
+comment,Class,0.0
+comment,Class,0.3612
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4404
+comment,Class,0.3612
+comment,Class,0.886
+comment,Class,0.2732
+comment,Class,0.296
+comment,Class,0.0
+comment,Class,0.5574
+comment,Class,0.4215
+comment,Class,0.8934
+comment,Class,0.3612
+comment,Class,0.0
+comment,Class,0.5267
+comment,Class,0.8225
+comment,Class,0.5574
+comment,Class,0.9001
+comment,Class,0.0
+comment,Class,0.6369
+comment,Class,0.0
+comment,Class,0.6908
+comment,Class,-0.0772
+comment,Class,0.2023
+comment,Class,0.0
+comment,Class,0.3182
+comment,Class,0.6249
+comment,Class,0.6486
+comment,Class,-0.6705
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,-0.4404
+comment,Class,0.7346
+comment,Class,0.2023
+comment,Class,0.0
+comment,Class,0.0772
+comment,Class,0.6486
+comment,Class,0.4404
+comment,Class,0.8126
+comment,Class,0.0
+comment,Class,0.6369
+comment,Class,0.0
+comment,Class,0.9136
+comment,Class,0.8591
+comment,Class,-0.1027
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4939
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4588
+comment,Class,0.3626
+comment,Class,0.9337
+comment,Class,0.8271
+comment,Class,0.4215
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.7003
+comment,Class,0.3182
+comment,Class,0.4215
+comment,Class,0.743
+comment,Class,0.7845
+comment,Class,0.4404
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,-0.8777
+post,Degree,0.0
+comment,Degree,0.3182
+comment,Degree,0.0
+post,PSA,0.6908
+comment,PSA,0.6249
+comment,PSA,0.0
+comment,PSA,0.0
+comment,PSA,0.0
+post,Finances,0.891
+comment,Finances,0.0
+comment,Finances,0.2732
+post,Class,-0.1027
+comment,Class,0.6369
+comment,Class,-0.0772
+comment,Class,-0.34
+comment,Class,-0.2975
+post,Prospective Student,0.0
+comment,Prospective Student,0.836
+comment,Prospective Student,0.0
+post,New Student,0.9201
+comment,New Student,0.4215
+comment,New Student,0.0772
+post,Student Organization,0.818
+comment,Student Organization,0.9942
+comment,Student Organization,0.93
+comment,Student Organization,-0.3182
+comment,Student Organization,0.8683
+comment,Student Organization,-0.5719
+comment,Student Organization,0.9832
+comment,Student Organization,0.0516
+comment,Student Organization,0.9397
+comment,Student Organization,0.4215
+post,New Student,0.8658
+comment,New Student,0.9103
+post,Academics - Other Topics,0.6808
+comment,Academics - Other Topics,0.3182
+comment,Academics - Other Topics,0.0
+post,Housing,0.6908
+comment,Housing,0.7579
+comment,Housing,-0.5994
+post,Sports,0.0
+post,None,0.0
+comment,None,0.1779
+comment,None,-0.2732
+comment,None,0.0
+comment,None,0.0
+post,Sports,-0.34
+comment,Sports,0.9035
+comment,Sports,0.6249
+comment,Sports,-0.4215
+comment,Sports,0.8511
+comment,Sports,-0.3182
+comment,Sports,0.0
+comment,Sports,0.34
+comment,Sports,0.1695
+comment,Sports,-0.9413
+comment,Sports,-0.3182
+comment,Sports,0.8777
+comment,Sports,0.3182
+comment,Sports,0.0
+comment,Sports,-0.34
+comment,Sports,0.0258
+comment,Sports,-0.5574
+comment,Sports,0.9101
+comment,Sports,0.8402
+comment,Sports,0.8402
+comment,Sports,0.8992
+comment,Sports,0.7783
+post,Student Organization,0.5106
+comment,Student Organization,0.6124
+comment,Student Organization,0.5267
+post,Event,0.7184
+post,Student Organization,0.8934
+comment,Student Organization,-0.7452
+comment,Student Organization,0.296
+comment,Student Organization,0.8461
+comment,Student Organization,0.8481
+comment,Student Organization,0.3182
+post,Prospective Student,0.9468
+comment,Prospective Student,-0.6597
+comment,Prospective Student,0.0
+comment,Prospective Student,0.7506
+comment,Prospective Student,0.9776
+comment,Prospective Student,0.9451
+comment,Prospective Student,0.5106
+comment,Prospective Student,0.9703
+comment,Prospective Student,0.9042
+comment,Prospective Student,0.8176
+post,Prospective Student,0.9516
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9869
+comment,Prospective Student,0.9819
+post,Sports,0.0
+post,Class,0.9216
+comment,Class,0.6597
+comment,Class,0.1779
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.2263
+comment,Meme,0.128
+comment,Meme,-0.7783
+comment,Meme,0.7269
+comment,Meme,0.9545
+comment,Meme,0.2263
+comment,Meme,0.4144
+comment,Meme,0.0
+comment,Meme,-0.1027
+post,Class,0.4404
+comment,Class,0.0
+comment,Class,-0.4767
+post,Employment,0.5859
+comment,Employment,0.4019
+comment,Employment,-0.1531
+comment,Employment,0.4019
+comment,Employment,0.743
+comment,Employment,0.0
+comment,Employment,0.3876
+post,Miscellaneous,0.5859
+comment,Miscellaneous,-0.6249
+comment,Miscellaneous,0.4939
+post,Class,0.0
+comment,Class,-0.5233
+comment,Class,0.5267
+comment,Class,-0.9393
+comment,Class,0.9761
+comment,Class,0.4404
+comment,Class,0.8742
+comment,Class,-0.1531
+post,Academics - Other Topics,0.024
+comment,Academics - Other Topics,0.5423
+comment,Academics - Other Topics,0.8591
+comment,Academics - Other Topics,0.1779
+post,Degree,0.7606
+post,Housing,0.4404
+comment,Housing,-0.0258
+comment,Housing,0.0
+post,COVID-19,0.5413
+comment,COVID-19,-0.8591
+comment,COVID-19,0.1779
+comment,COVID-19,0.9349
+comment,COVID-19,-0.9081
+comment,COVID-19,-0.9499
+comment,COVID-19,0.4404
+comment,COVID-19,0.0
+comment,COVID-19,0.9186
+comment,COVID-19,0.8709
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.6908
+comment,Meme,0.5106
+comment,Meme,0.6369
+comment,Meme,0.34
+comment,Meme,0.7506
+comment,Meme,-0.6369
+comment,Meme,0.0
+comment,Meme,0.4404
+post,Prospective Student,0.2247
+comment,Prospective Student,-0.1779
+comment,Prospective Student,0.9538
+comment,Prospective Student,0.5106
+comment,Prospective Student,-0.0516
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5106
+comment,Prospective Student,0.7717
+comment,Prospective Student,0.8591
+comment,Prospective Student,0.8176
+comment,Prospective Student,0.0
+comment,Prospective Student,0.7197
+post,Academics - Other Topics,-0.0772
+comment,Academics - Other Topics,-0.1027
+comment,Academics - Other Topics,0.836
+comment,Academics - Other Topics,0.9217
+comment,Academics - Other Topics,0.4939
+comment,Academics - Other Topics,0.8981
+comment,Academics - Other Topics,0.9648
+comment,Academics - Other Topics,0.4215
+post,Health / Wellness,-0.2991
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,0.8225
+comment,Health / Wellness,0.8074
+comment,Health / Wellness,0.296
+comment,Health / Wellness,0.9436
+post,Miscellaneous,0.9274
+comment,Miscellaneous,0.6344
+comment,Miscellaneous,-0.5106
+comment,Miscellaneous,0.5423
+comment,Miscellaneous,0.0
+post,Class,0.5848
+comment,Class,0.9748
+comment,Class,0.9738
+comment,Class,0.9231
+comment,Class,0.6369
+comment,Class,0.5859
+post,Prospective Student,0.9682
+comment,Prospective Student,0.8689
+comment,Prospective Student,-0.0772
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6705
+comment,Prospective Student,0.8625
+comment,Prospective Student,0.9371
+comment,Prospective Student,0.9604
+comment,Prospective Student,0.891
+comment,Prospective Student,0.4576
+comment,Prospective Student,0.3182
+comment,Prospective Student,-0.2732
+comment,Prospective Student,0.5408
+comment,Prospective Student,-0.872
+post,Employment,0.0
+comment,Employment,0.2732
+comment,Employment,-0.296
+comment,Employment,0.5994
+post,Prospective Student,0.3612
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5994
+comment,Prospective Student,0.6486
+comment,Prospective Student,0.3182
+post,Employment,-0.34
+comment,Employment,0.2023
+comment,Employment,-0.6124
+comment,Employment,0.4215
+comment,Employment,0.0
+post,Class,0.0
+comment,Class,0.7184
+comment,Class,0.0
+comment,Class,0.6486
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4767
+comment,Class,-0.1027
+comment,Class,-0.5574
+comment,Class,0.4019
+comment,Class,-0.8957
+comment,Class,0.4215
+comment,Class,-0.7783
+comment,Class,0.0
+comment,Class,-0.3818
+comment,Class,0.0
+comment,Class,0.3612
+comment,Class,0.3612
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4588
+comment,Class,0.5719
+comment,Class,0.4949
+comment,Class,-0.7304
+comment,Class,0.5423
+comment,Class,0.2023
+comment,Class,0.5258
+comment,Class,-0.8832
+comment,Class,-0.6369
+comment,Class,0.5653
+post,Employment,0.0
+comment,Employment,-0.3818
+post,Social,-0.6512
+comment,Social,0.0
+comment,Social,0.7316
+comment,Social,0.6705
+comment,Social,0.765
+comment,Social,0.228
+post,Miscellaneous,-0.1877
+comment,Miscellaneous,0.0258
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.2023
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.6369
+comment,Meme,0.3612
+post,Sports,0.0
+comment,Sports,0.4215
+post,Class,0.4767
+post,News,0.0
+comment,News,0.0258
+post,Miscellaneous,-0.5106
+comment,Miscellaneous,0.4019
+comment,Miscellaneous,0.8402
+comment,Miscellaneous,0.4939
+comment,Miscellaneous,0.2023
+comment,Miscellaneous,0.882
+comment,Miscellaneous,0.6369
+comment,Miscellaneous,0.6962
+comment,Miscellaneous,-0.8925
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.6786
+comment,Miscellaneous,0.6808
+comment,Miscellaneous,0.9782
+comment,Miscellaneous,0.4215
+comment,Miscellaneous,0.4939
+post,Academics - Other Topics,-0.7233
+comment,Academics - Other Topics,-0.0516
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.8555
+comment,Academics - Other Topics,-0.7003
+comment,Academics - Other Topics,0.9393
+post,Finances,-0.765
+post,Class,-0.024
+comment,Class,0.7579
+post,Sports,0.886
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+post,Research,0.7089
+post,Class,0.3612
+comment,Class,0.0
+comment,Class,0.6705
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.5413
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+post,Housing,0.2263
+comment,Housing,0.8126
+comment,Housing,0.6705
+comment,Housing,0.0
+comment,Housing,-0.1027
+comment,Housing,0.0
+comment,Housing,0.4939
+comment,Housing,0.0
+comment,Housing,0.3182
+comment,Housing,0.4939
+comment,Housing,0.5106
+post,PSA,0.9081
+comment,PSA,-0.6124
+post,Class,0.5574
+comment,Class,0.4588
+comment,Class,0.0258
+post,Health / Wellness,-0.9403
+comment,Health / Wellness,0.2177
+comment,Health / Wellness,0.9155
+comment,Health / Wellness,-0.7184
+comment,Health / Wellness,0.983
+comment,Health / Wellness,0.8519
+comment,Health / Wellness,0.9831
+post,Media,0.0
+comment,Media,-0.5106
+comment,Media,0.0
+post,COVID-19,0.6326
+comment,COVID-19,0.4588
+comment,COVID-19,0.2732
+post,New Student,0.5574
+comment,New Student,0.9524
+comment,New Student,0.85
+comment,New Student,0.0
+comment,New Student,-0.6369
+comment,New Student,0.9246
+comment,New Student,0.9707
+comment,New Student,0.765
+comment,New Student,0.6013
+comment,New Student,0.8411
+comment,New Student,0.4877
+comment,New Student,0.9371
+comment,New Student,-0.5994
+comment,New Student,0.8767
+comment,New Student,-0.5859
+comment,New Student,-0.5423
+comment,New Student,0.4215
+comment,New Student,0.8957
+comment,New Student,0.0
+comment,New Student,0.5719
+comment,New Student,0.6705
+comment,New Student,0.2987
+comment,New Student,-0.5719
+comment,New Student,0.0
+post,Degree,0.4767
+comment,Degree,0.9018
+comment,Degree,-0.4767
+comment,Degree,0.9169
+comment,Degree,0.8126
+comment,Degree,0.802
+comment,Degree,0.0
+post,Class,-0.3818
+comment,Class,0.6124
+comment,Class,0.6249
+post,Housing,0.4404
+comment,Housing,0.0
+comment,Housing,-0.2732
+comment,Housing,0.9531
+comment,Housing,0.0
+comment,Housing,-0.8074
+comment,Housing,0.0
+comment,Housing,-0.791
+comment,Housing,0.3098
+comment,Housing,0.8519
+comment,Housing,0.9442
+comment,Housing,-0.7056
+post,Housing,0.6908
+comment,Housing,0.5489
+post,New Student,0.0772
+comment,New Student,-0.1027
+comment,New Student,0.6369
+comment,New Student,0.9274
+comment,New Student,0.296
+post,Housing,-0.8225
+comment,Housing,0.8115
+comment,Housing,-0.2023
+comment,Housing,0.4939
+comment,Housing,0.0
+comment,Housing,0.2023
+comment,Housing,0.8908
+comment,Housing,0.6705
+post,Meta,0.0
+post,Media,0.0
+comment,Media,0.7964
+post,Class,-0.1779
+comment,Class,-0.296
+comment,Class,-0.25
+comment,Class,0.7783
+comment,Class,0.0
+comment,Class,0.7783
+comment,Class,0.0
+post,Miscellaneous,0.0
+post,News,0.0
+comment,News,0.6597
+comment,News,0.2732
+comment,News,0.0
+comment,News,0.0258
+comment,News,0.6858
+comment,News,0.0
+post,Health / Wellness,0.7783
+comment,Health / Wellness,-0.5106
+comment,Health / Wellness,0.2023
+comment,Health / Wellness,0.8885
+comment,Health / Wellness,-0.6808
+post,Food / Culture,0.0
+comment,Food / Culture,0.7269
+post,Class,0.4939
+comment,Class,-0.1779
+comment,Class,0.0
+comment,Class,-0.1027
+comment,Class,-0.4588
+comment,Class,-0.6705
+post,Event,0.9741
+comment,Event,0.0
+post,Miscellaneous,-0.7845
+comment,Miscellaneous,-0.6486
+comment,Miscellaneous,0.3612
+comment,Miscellaneous,0.296
+comment,Miscellaneous,0.0
+comment,Miscellaneous,-0.25
+comment,Miscellaneous,0.296
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+post,Housing,0.7146
+comment,Housing,0.34
+comment,Housing,0.2732
+comment,Housing,0.2263
+comment,Housing,0.1531
+comment,Housing,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.4404
+comment,COVID-19,0.4588
+comment,COVID-19,0.0
+post,Miscellaneous,0.8807
+comment,Miscellaneous,0.2732
+comment,Miscellaneous,0.9552
+comment,Miscellaneous,0.7184
+comment,Miscellaneous,0.3182
+post,Class,-0.9493
+comment,Class,0.8974
+comment,Class,0.8903
+post,COVID-19,0.0
+comment,COVID-19,0.3182
+comment,COVID-19,0.0
+post,Class,0.4404
+comment,Class,0.9403
+comment,Class,-0.743
+comment,Class,0.0
+post,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.0
+comment,Class,0.4215
+comment,Class,0.0
+comment,Class,0.0
+post,Class,0.8228
+comment,Class,0.3612
+comment,Class,0.0258
+comment,Class,0.9246
+post,Class,0.1815
+comment,Class,0.869
+comment,Class,-0.2732
+comment,Class,0.7269
+post,Media,0.0
+comment,Media,0.0
+comment,Media,0.2263
+comment,Media,0.0
+comment,Media,0.7096
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.296
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+post,Prospective Student,-0.4601
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,Student Organization,0.9648
+comment,Student Organization,0.0
+comment,Student Organization,0.0
+post,COVID-19,0.9025
+comment,COVID-19,0.802
+comment,COVID-19,0.0
+comment,COVID-19,0.2263
+comment,COVID-19,0.6712
+comment,COVID-19,0.0
+post,Health / Wellness,0.9943
+post,Academics - Other Topics,0.8271
+comment,Academics - Other Topics,0.3612
+post,Class,-0.9437
+comment,Class,0.5574
+comment,Class,0.5588
+comment,Class,0.4336
+comment,Class,0.658
+comment,Class,-0.4767
+post,Health / Wellness,0.7422
+comment,Health / Wellness,0.836
+comment,Health / Wellness,0.7845
+comment,Health / Wellness,0.7269
+comment,Health / Wellness,-0.25
+comment,Health / Wellness,0.9892
+comment,Health / Wellness,-0.0516
+comment,Health / Wellness,0.5984
+comment,Health / Wellness,0.4215
+comment,Health / Wellness,0.6249
+comment,Health / Wellness,0.1779
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.4939
+comment,Health / Wellness,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.9584
+comment,COVID-19,0.8395
+comment,COVID-19,0.0
+post,Food / Culture,0.0
+comment,Food / Culture,-0.34
+comment,Food / Culture,0.4019
+post,Research,0.0
+comment,Research,-0.7096
+comment,Research,0.6249
+post,Prospective Student,0.891
+comment,Prospective Student,0.743
+comment,Prospective Student,0.0
+comment,Prospective Student,0.6597
+comment,Prospective Student,0.9287
+comment,Prospective Student,0.0
+post,Prospective Student,0.6697
+comment,Prospective Student,0.836
+post,Research,0.2732
+comment,Research,0.5994
+comment,Research,0.0
+comment,Research,0.0
+comment,Research,0.0
+post,Class,-0.3182
+comment,Class,0.4215
+comment,Class,-0.4404
+comment,Class,0.5859
+comment,Class,-0.6808
+comment,Class,0.4627
+comment,Class,-0.5267
+comment,Class,-0.9607
+comment,Class,0.1311
+comment,Class,0.8689
+post,Class,0.8749
+comment,Class,0.3182
+comment,Class,0.9893
+comment,Class,0.4588
+comment,Class,-0.0276
+post,Class,0.8442
+comment,Class,0.3612
+comment,Class,0.8591
+post,Academics - Other Topics,0.9716
+comment,Academics - Other Topics,0.4404
+comment,Academics - Other Topics,0.8357
+comment,Academics - Other Topics,-0.7184
+comment,Academics - Other Topics,-0.0018
+comment,Academics - Other Topics,0.4215
+comment,Academics - Other Topics,-0.3818
+comment,Academics - Other Topics,-0.8225
+comment,Academics - Other Topics,0.0
+post,Health / Wellness,0.9893
+comment,Health / Wellness,0.993
+comment,Health / Wellness,-0.3612
+post,Class,-0.0772
+comment,Class,0.0
+comment,Class,0.0
+post,Miscellaneous,0.6249
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.34
+comment,Miscellaneous,0.0
+post,Class,0.6901
+comment,Class,0.6369
+comment,Class,0.0
+post,Health / Wellness,0.929
+comment,Health / Wellness,0.8402
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-0.6249
+comment,Health / Wellness,0.0258
+post,Sports,0.8885
+comment,Sports,0.7269
+comment,Sports,0.891
+post,Degree,0.4215
+comment,Degree,0.8979
+post,Degree,0.9717
+comment,Degree,0.9808
+comment,Degree,0.9923
+comment,Degree,0.6779
+comment,Degree,0.9371
+comment,Degree,0.9412
+comment,Degree,0.836
+post,New Student,0.9222
+comment,New Student,0.8176
+comment,New Student,0.886
+comment,New Student,0.8225
+comment,New Student,0.743
+comment,New Student,0.936
+post,Academics - Other Topics,0.2975
+comment,Academics - Other Topics,0.2023
+comment,Academics - Other Topics,-0.5994
+post,Finances,-0.4404
+comment,Finances,-0.1027
+comment,Finances,0.1531
+post,Sports,0.0
+comment,Sports,0.6369
+post,Prospective Student,0.8553
+comment,Prospective Student,0.0
+comment,Prospective Student,0.8625
+comment,Prospective Student,0.7184
+comment,Prospective Student,-0.2732
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.8625
+comment,Prospective Student,0.5859
+comment,Prospective Student,0.8503
+comment,Prospective Student,0.9901
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.8548
+comment,Prospective Student,0.7458
+comment,Prospective Student,0.7096
+comment,Prospective Student,0.7089
+comment,Prospective Student,0.128
+comment,Prospective Student,0.5277
+comment,Prospective Student,0.2263
+post,Event,0.2732
+comment,Event,0.0
+post,Degree,0.0
+comment,Degree,0.4767
+comment,Degree,0.0
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.8957
+comment,Miscellaneous,0.5574
+comment,Miscellaneous,-0.3182
+post,Housing,0.9153
+comment,Housing,0.9772
+comment,Housing,0.0258
+comment,Housing,0.4767
+comment,Housing,0.0
+comment,Housing,0.9517
+comment,Housing,0.9921
+post,Academics - Other Topics,0.3612
+comment,Academics - Other Topics,0.743
+comment,Academics - Other Topics,0.0516
+post,Student Organization,-0.2212
+post,Prospective Student,0.2927
+comment,Prospective Student,0.4404
+comment,Prospective Student,0.9368
+post,Finances,0.8126
+comment,Finances,0.4215
+post,Prospective Student,0.25
+comment,Prospective Student,0.8126
+post,Academics - Other Topics,0.9753
+comment,Academics - Other Topics,0.9794
+comment,Academics - Other Topics,0.8601
+comment,Academics - Other Topics,0.4215
+comment,Academics - Other Topics,-0.6801
+post,Finances,-0.5106
+comment,Finances,0.0
+post,Class,0.0
+comment,Class,-0.6249
+comment,Class,0.3612
+comment,Class,0.5574
+comment,Class,0.9184
+comment,Class,0.9216
+post,News,0.0
+comment,News,0.3612
+comment,News,0.296
+comment,News,0.2263
+comment,News,0.2211
+comment,News,-0.3182
+comment,News,-0.5423
+comment,News,0.7351
+comment,News,0.6486
+comment,News,-0.5574
+comment,News,0.0
+comment,News,0.0
+post,Class,-0.5423
+comment,Class,0.9337
+comment,Class,0.9413
+comment,Class,0.0
+post,Meme,0.0
+post,Satellite Campus,0.0
+comment,Satellite Campus,-0.785
+comment,Satellite Campus,0.7717
+comment,Satellite Campus,0.5267
+post,Student Organization,0.0
+comment,Student Organization,0.0258
+comment,Student Organization,0.8957
+comment,Student Organization,-0.7184
+comment,Student Organization,0.0
+comment,Student Organization,0.9638
+comment,Student Organization,0.6369
+post,Finances,0.9118
+comment,Finances,0.765
+comment,Finances,-0.0772
+comment,Finances,0.5106
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.6256
+post,Prospective Student,-0.6369
+comment,Prospective Student,0.2023
+post,Health / Wellness,0.3182
+comment,Health / Wellness,0.128
+comment,Health / Wellness,0.7906
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.5106
+post,Finances,0.9313
+comment,Finances,0.6369
+comment,Finances,0.9062
+post,Miscellaneous,0.9186
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.8658
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.3818
+comment,Miscellaneous,0.765
+comment,Miscellaneous,0.4404
+comment,Miscellaneous,0.3839
+post,Degree,0.4215
+comment,Degree,0.6124
+post,Housing,0.3612
+comment,Housing,0.0
+post,Employment,0.891
+post,Degree,0.3612
+comment,Degree,0.0
+post,Academics - Other Topics,0.2053
+comment,Academics - Other Topics,0.4201
+comment,Academics - Other Topics,-0.34
+post,Prospective Student,0.8225
+comment,Prospective Student,0.9623
+post,Class,0.9728
+comment,Class,0.9545
+comment,Class,0.9285
+comment,Class,0.0
+comment,Class,0.9814
+comment,Class,0.5267
+comment,Class,0.8625
+post,New Student,0.6553
+comment,New Student,0.9313
+comment,New Student,0.0
+post,Class,0.6997
+comment,Class,0.8555
+comment,Class,0.7003
+post,Health / Wellness,0.8016
+comment,Health / Wellness,0.8553
+comment,Health / Wellness,0.9451
+comment,Health / Wellness,0.9764
+post,Miscellaneous,-0.1027
+comment,Miscellaneous,0.296
+post,COVID-19,-0.34
+comment,COVID-19,0.34
+comment,COVID-19,0.6705
+comment,COVID-19,0.7351
+post,Health / Wellness,-0.4927
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,-0.5423
+comment,Health / Wellness,0.6705
+comment,Health / Wellness,0.5574
+post,Health / Wellness,0.8834
+comment,Health / Wellness,0.802
+comment,Health / Wellness,0.9436
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.4215
+comment,Health / Wellness,0.9764
+post,COVID-19,0.6597
+comment,COVID-19,0.3612
+comment,COVID-19,0.7506
+comment,COVID-19,-0.2732
+post,Meme,0.0
+comment,Meme,-0.3182
+comment,Meme,0.6124
+comment,Meme,-0.296
+comment,Meme,-0.25
+comment,Meme,0.0
+post,Academics - Other Topics,0.9231
+comment,Academics - Other Topics,0.4404
+comment,Academics - Other Topics,0.6822
+comment,Academics - Other Topics,0.4939
+comment,Academics - Other Topics,0.1779
+comment,Academics - Other Topics,0.9337
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.9531
+post,Housing,0.7506
+post,Prospective Student,0.9651
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9846
+comment,Prospective Student,0.7845
+post,Health / Wellness,0.0
+comment,Health / Wellness,0.1779
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-0.4404
+comment,Health / Wellness,-0.128
+post,PSA,0.4404
+comment,PSA,0.4588
+comment,PSA,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.3612
+post,Miscellaneous,0.0
+comment,Miscellaneous,-0.8481
+post,Finances,0.3612
+comment,Finances,0.0
+comment,Finances,0.34
+post,Class,0.4754
+comment,Class,-0.5688
+comment,Class,0.0
+comment,Class,-0.3182
+comment,Class,-0.5719
+comment,Class,-0.2023
+comment,Class,-0.5423
+comment,Class,0.7506
+comment,Class,0.4404
+comment,Class,0.3612
+post,Finances,0.7269
+comment,Finances,0.9899
+comment,Finances,0.0
+post,Class,0.9325
+comment,Class,0.8176
+comment,Class,0.0
+comment,Class,0.9371
+comment,Class,0.0
+comment,Class,0.7351
+post,Degree,0.8658
+comment,Degree,0.9613
+comment,Degree,0.6369
+post,Social,0.4019
+comment,Social,0.0
+comment,Social,0.4767
+comment,Social,0.0
+post,Class,0.9792
+comment,Class,0.7269
+comment,Class,0.9739
+comment,Class,0.8834
+comment,Class,0.0772
+comment,Class,0.0
+post,Health / Wellness,-0.3
+comment,Health / Wellness,0.8976
+comment,Health / Wellness,0.128
+comment,Health / Wellness,-0.6115
+comment,Health / Wellness,0.9925
+comment,Health / Wellness,-0.9753
+comment,Health / Wellness,-0.8893
+comment,Health / Wellness,0.6597
+comment,Health / Wellness,-0.3818
+comment,Health / Wellness,0.9565
+comment,Health / Wellness,0.8809
+comment,Health / Wellness,-0.6779
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.0
+comment,Health / Wellness,-0.25
+comment,Health / Wellness,0.1531
+comment,Health / Wellness,0.1779
+post,Degree,0.3612
+comment,Degree,0.5106
+comment,Degree,0.5106
+post,COVID-19,0.5267
+comment,COVID-19,-0.1531
+comment,COVID-19,0.6908
+comment,COVID-19,0.9432
+comment,COVID-19,0.743
+comment,COVID-19,0.5267
+comment,COVID-19,0.9412
+comment,COVID-19,0.6586
+comment,COVID-19,-0.802
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.128
+comment,COVID-19,0.296
+post,Academics - Other Topics,0.9653
+comment,Academics - Other Topics,0.5859
+post,Buy / Sell,0.4019
+post,PSA,0.4767
+comment,PSA,0.8834
+comment,PSA,0.3182
+post,Housing,0.743
+comment,Housing,0.9578
+post,Health / Wellness,0.8834
+comment,Health / Wellness,0.9393
+post,Employment,0.4404
+comment,Employment,0.4939
+comment,Employment,0.6808
+comment,Employment,0.0
+post,Miscellaneous,0.707
+comment,Miscellaneous,0.0
+post,Miscellaneous,0.9062
+comment,Miscellaneous,0.765
+comment,Miscellaneous,0.836
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4939
+comment,Miscellaneous,0.7089
+post,Housing,0.25
+comment,Housing,0.0
+comment,Housing,0.7717
+comment,Housing,0.7351
+post,Prospective Student,0.7083
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.5574
+post,Prospective Student,0.7184
+comment,Prospective Student,0.93
+post,Degree,-0.9001
+comment,Degree,0.0
+comment,Degree,0.0
+comment,Degree,-0.4215
+comment,Degree,0.0
+comment,Degree,0.0276
+post,PSA,0.296
+post,Prospective Student,-0.1027
+comment,Prospective Student,0.34
+comment,Prospective Student,0.0808
+comment,Prospective Student,0.6808
+comment,Prospective Student,0.9274
+comment,Prospective Student,0.4215
+post,COVID-19,0.7893
+comment,COVID-19,0.9757
+comment,COVID-19,0.1531
+comment,COVID-19,-0.5719
+comment,COVID-19,-0.1531
+comment,COVID-19,0.4019
+comment,COVID-19,-0.2732
+post,Class,0.4588
+comment,Class,0.7808
+comment,Class,-0.6581
+comment,Class,-0.7506
+comment,Class,-0.1531
+post,Class,0.0
+comment,Class,0.8055
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.3818
+comment,Meme,0.0
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.6908
+comment,Meme,-0.6597
+post,Prospective Student,0.9733
+comment,Prospective Student,0.0
+post,News,0.0
+comment,News,0.0
+comment,News,-0.4404
+comment,News,0.0
+comment,News,-0.6167
+comment,News,-0.7506
+comment,News,0.0
+comment,News,0.7579
+post,Employment,0.4019
+comment,Employment,0.7096
+comment,Employment,0.7346
+comment,Employment,0.0772
+post,Prospective Student,0.946
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.8357
+comment,Prospective Student,0.9202
+comment,Prospective Student,0.7316
+comment,Prospective Student,0.9483
+post,Miscellaneous,0.7184
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.7351
+comment,Miscellaneous,0.7096
+comment,Miscellaneous,0.8625
+post,Academics - Other Topics,-0.0516
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.5095
+comment,Academics - Other Topics,0.5423
+post,Event,0.9741
+post,Prospective Student,0.5423
+comment,Prospective Student,0.9246
+comment,Prospective Student,0.0772
+post,Prospective Student,0.3612
+comment,Prospective Student,0.1027
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.4019
+post,Social,0.9509
+comment,Social,-0.25
+comment,Social,0.3818
+comment,Social,0.0
+comment,Social,0.4588
+comment,Social,-0.4588
+comment,Social,0.0
+comment,Social,-0.4588
+comment,Social,0.0
+post,Media,0.0
+comment,Media,0.6597
+comment,Media,0.0
+post,Prospective Student,0.9652
+comment,Prospective Student,-0.357
+comment,Prospective Student,0.4767
+post,Housing,0.8658
+comment,Housing,-0.1779
+comment,Housing,0.6258
+comment,Housing,0.0
+post,Finances,0.6249
+comment,Finances,0.3182
+comment,Finances,0.9941
+comment,Finances,0.9919
+comment,Finances,0.0
+comment,Finances,0.9186
+comment,Finances,0.0
+post,COVID-19,0.1531
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,0.5719
+comment,COVID-19,0.0772
+comment,COVID-19,0.0
+comment,COVID-19,0.4215
+comment,COVID-19,0.0422
+comment,COVID-19,0.8519
+comment,COVID-19,0.1531
+comment,COVID-19,-0.8225
+comment,COVID-19,0.6369
+post,Health / Wellness,0.6597
+comment,Health / Wellness,0.7902
+comment,Health / Wellness,-0.6808
+comment,Health / Wellness,0.3818
+comment,Health / Wellness,0.4951
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.743
+comment,Health / Wellness,0.7906
+post,Class,0.6808
+post,Class,0.6908
+comment,Class,0.4019
+comment,Class,0.9732
+comment,Class,0.3612
+post,PSA,0.0
+comment,PSA,0.0
+comment,PSA,-0.6808
+comment,PSA,-0.5423
+comment,PSA,0.0
+comment,PSA,0.0
+comment,PSA,0.2212
+comment,PSA,-0.7269
+comment,PSA,-0.5423
+comment,PSA,0.7906
+comment,PSA,0.3612
+comment,PSA,0.0
+comment,PSA,0.4588
+comment,PSA,0.0
+comment,PSA,0.0
+post,Prospective Student,0.9217
+comment,Prospective Student,0.4767
+comment,Prospective Student,0.2263
+comment,Prospective Student,0.8908
+comment,Prospective Student,0.9243
+post,Prospective Student,0.1548
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.4767
+comment,Prospective Student,0.6527
+post,Buy / Sell,-0.2732
+post,COVID-19,-0.1027
+comment,COVID-19,0.8707
+comment,COVID-19,-0.2137
+comment,COVID-19,-0.1779
+comment,COVID-19,0.0
+comment,COVID-19,-0.3182
+comment,COVID-19,-0.296
+comment,COVID-19,0.4404
+comment,COVID-19,0.765
+comment,COVID-19,0.5267
+comment,COVID-19,0.2732
+comment,COVID-19,0.1531
+post,COVID-19,0.5106
+comment,COVID-19,0.7783
+comment,COVID-19,0.0
+comment,COVID-19,0.4754
+comment,COVID-19,0.0
+post,Media,0.0
+comment,Media,0.5994
+comment,Media,0.4588
+comment,Media,-0.2023
+post,Prospective Student,0.9565
+comment,Prospective Student,0.0
+comment,Prospective Student,0.3384
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.1027
+post,Degree,0.7003
+comment,Degree,0.8689
+comment,Degree,0.945
+comment,Degree,0.9601
+comment,Degree,0.8852
+comment,Degree,0.1531
+post,Prospective Student,0.765
+comment,Prospective Student,0.4404
+comment,Prospective Student,0.9545
+post,Miscellaneous,0.5026
+comment,Miscellaneous,0.0
+post,Prospective Student,0.9231
+comment,Prospective Student,0.6124
+comment,Prospective Student,-0.743
+post,Housing,0.9865
+post,Research,-0.5719
+comment,Research,0.9385
+post,Class,0.9628
+comment,Class,0.8442
+comment,Class,-0.9169
+post,Housing,0.9843
+comment,Housing,0.8316
+comment,Housing,0.7351
+comment,Housing,0.9001
+comment,Housing,0.3182
+comment,Housing,0.7717
+post,Sports,0.0
+comment,Sports,0.8834
+comment,Sports,0.0
+comment,Sports,0.0
+comment,Sports,0.0
+post,Sports,0.0
+comment,Sports,0.9545
+comment,Sports,0.0
+comment,Sports,-0.34
+comment,Sports,0.0
+comment,Sports,0.3182
+post,Sports,0.0
+comment,Sports,-0.296
+comment,Sports,0.0
+post,Academics - Other Topics,0.8797
+comment,Academics - Other Topics,-0.2023
+comment,Academics - Other Topics,0.3612
+comment,Academics - Other Topics,0.5994
+post,Sports,0.0
+comment,Sports,0.6369
+comment,Sports,-0.4939
+post,Miscellaneous,0.0
+comment,Miscellaneous,0.3559
+comment,Miscellaneous,0.8104
+comment,Miscellaneous,0.0
+comment,Miscellaneous,0.4382
+comment,Miscellaneous,0.6319
+post,Class,0.4404
+comment,Class,0.4404
+post,Food / Culture,0.0
+comment,Food / Culture,0.0
+comment,Food / Culture,0.6369
+post,Class,-0.1531
+comment,Class,0.9259
+post,Housing,0.9201
+comment,Housing,0.8439
+comment,Housing,-0.5994
+comment,Housing,0.5267
+comment,Housing,0.2263
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.4404
+post,Housing,0.6369
+comment,Housing,0.8807
+comment,Housing,0.2263
+comment,Housing,0.7003
+comment,Housing,-0.4019
+post,None,0.3182
+comment,None,0.0
+comment,None,0.6124
+comment,None,0.4019
+post,Prospective Student,0.0
+comment,Prospective Student,0.5106
+comment,Prospective Student,0.0
+comment,Prospective Student,0.2484
+comment,Prospective Student,0.0
+post,Prospective Student,0.998
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9804
+comment,Prospective Student,0.8173
+comment,Prospective Student,0.802
+comment,Prospective Student,0.0772
+post,Social,0.8225
+post,Housing,-0.0541
+comment,Housing,0.296
+comment,Housing,0.6124
+comment,Housing,0.6705
+comment,Housing,0.7096
+comment,Housing,0.6249
+comment,Housing,-0.0352
+post,Prospective Student,0.6705
+comment,Prospective Student,0.6249
+comment,Prospective Student,0.0
+comment,Prospective Student,0.4019
+post,Food / Culture,0.6369
+comment,Food / Culture,0.0
+post,Prospective Student,0.6494
+comment,Prospective Student,0.0
+post,Degree,0.9186
+comment,Degree,0.0
+comment,Degree,0.4215
+comment,Degree,0.4215
+post,Satellite Campus,0.8479
+comment,Satellite Campus,0.891
+comment,Satellite Campus,0.8755
+comment,Satellite Campus,0.0
+comment,Satellite Campus,0.908
+comment,Satellite Campus,0.8316
+comment,Satellite Campus,0.0
+post,Social,0.907
+comment,Social,0.4588
+comment,Social,0.6204
+post,Prospective Student,-0.2263
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9617
+comment,Prospective Student,-0.128
+comment,Prospective Student,0.8834
+comment,Prospective Student,0.8439
+comment,Prospective Student,-0.1027
+post,Media,0.0
+comment,Media,0.0
+comment,Media,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,Prospective Student,0.8834
+comment,Prospective Student,-0.5719
+post,Employment,0.9792
+comment,Employment,0.4404
+comment,Employment,0.985
+comment,Employment,0.8555
+comment,Employment,0.9916
+comment,Employment,0.9312
+post,New Student,0.9601
+comment,New Student,0.0
+post,Food / Culture,-0.7553
+comment,Food / Culture,-0.4215
+comment,Food / Culture,-0.2263
+comment,Food / Culture,0.4019
+comment,Food / Culture,0.4215
+comment,Food / Culture,0.0
+comment,Food / Culture,0.7564
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.4019
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.2037
+post,Prospective Student,0.6361
+comment,Prospective Student,0.765
+post,Meme,0.0
+comment,Meme,-0.3612
+post,Class,0.5423
+comment,Class,0.0
+post,Class,0.0
+comment,Class,0.6249
+comment,Class,-0.6659
+comment,Class,0.9686
+post,Miscellaneous,0.6597
+post,Health / Wellness,-0.9393
+comment,Health / Wellness,-0.8727
+comment,Health / Wellness,0.8658
+comment,Health / Wellness,0.975
+comment,Health / Wellness,0.0
+comment,Health / Wellness,0.3612
+comment,Health / Wellness,-0.0772
+post,Finances,0.1102
+comment,Finances,0.0
+comment,Finances,0.4215
+comment,Finances,0.5719
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.0772
+comment,Meme,0.6808
+comment,Meme,0.0
+post,Class,-0.2635
+comment,Class,0.9081
+comment,Class,0.6705
+post,Class,0.3612
+post,Class,0.7184
+post,Housing,0.9636
+post,COVID-19,0.0
+comment,COVID-19,-0.2732
+comment,COVID-19,0.0258
+comment,COVID-19,0.2023
+post,COVID-19,0.6486
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.2732
+post,Meme,0.0
+comment,Meme,-0.0516
+comment,Meme,0.0
+comment,Meme,0.1779
+comment,Meme,0.0
+comment,Meme,0.25
+post,Meme,0.0
+comment,Meme,0.4877
+post,Student Organization,0.5859
+comment,Student Organization,0.7184
+comment,Student Organization,0.5859
+comment,Student Organization,0.25
+comment,Student Organization,0.8399
+post,Class,0.6705
+comment,Class,0.8934
+comment,Class,0.4019
+comment,Class,0.7512
+comment,Class,-0.7351
+post,Student Organization,0.743
+post,Prospective Student,0.7764
+comment,Prospective Student,0.7783
+comment,Prospective Student,0.0
+comment,Prospective Student,0.3612
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,Meme,0.0
+comment,Meme,0.0258
+comment,Meme,0.128
+comment,Meme,0.1779
+comment,Meme,0.0
+comment,Meme,0.296
+comment,Meme,-0.3612
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.5574
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,-0.4019
+comment,Meme,0.4215
+comment,Meme,-0.5106
+comment,Meme,0.7351
+post,Employment,0.8074
+comment,Employment,0.2023
+comment,Employment,0.8126
+post,Health / Wellness,0.9895
+comment,Health / Wellness,-0.4404
+comment,Health / Wellness,0.9732
+comment,Health / Wellness,0.0
+post,Media,0.0
+comment,Media,0.8718
+comment,Media,-0.3182
+comment,Media,-0.128
+comment,Media,0.3164
+comment,Media,0.2263
+comment,Media,-0.8016
+comment,Media,0.3626
+comment,Media,0.0
+comment,Media,-0.296
+comment,Media,0.0
+post,Miscellaneous,0.4588
+comment,Miscellaneous,-0.6486
+post,Research,0.9861
+post,Academics - Other Topics,0.835
+comment,Academics - Other Topics,-0.3818
+comment,Academics - Other Topics,-0.1788
+comment,Academics - Other Topics,0.0
+post,Class,0.8074
+post,Class,0.975
+comment,Class,0.0
+comment,Class,0.8519
+post,Finances,0.872
+comment,Finances,0.9552
+comment,Finances,0.4404
+comment,Finances,0.5859
+comment,Finances,0.0
+comment,Finances,0.2732
+comment,Finances,0.8555
+comment,Finances,0.9673
+comment,Finances,0.6124
+comment,Finances,0.2263
+post,COVID-19,0.0
+post,Finances,0.0
+comment,Finances,-0.6808
+comment,Finances,0.7996
+comment,Finances,-0.3612
+comment,Finances,-0.2732
+comment,Finances,0.0
+comment,Finances,0.7003
+comment,Finances,0.8225
+comment,Finances,0.4215
+comment,Finances,-0.1027
+comment,Finances,0.9517
+comment,Finances,-0.2732
+comment,Finances,0.4404
+comment,Finances,0.0
+comment,Finances,0.7425
+comment,Finances,0.4404
+comment,Finances,0.0
+comment,Finances,0.0
+comment,Finances,0.7479
+comment,Finances,0.9413
+comment,Finances,0.5106
+comment,Finances,0.1602
+comment,Finances,0.8108
+comment,Finances,0.4449
+comment,Finances,-0.3182
+comment,Finances,0.7408
+comment,Finances,0.4767
+post,Health / Wellness,-0.9823
+comment,Health / Wellness,0.8513
+comment,Health / Wellness,0.9499
+comment,Health / Wellness,0.9856
+comment,Health / Wellness,0.9022
+comment,Health / Wellness,0.4019
+comment,Health / Wellness,-0.6705
+comment,Health / Wellness,0.4404
+comment,Health / Wellness,0.9062
+comment,Health / Wellness,-0.8653
+comment,Health / Wellness,-0.1779
+comment,Health / Wellness,0.9675
+comment,Health / Wellness,0.782
+comment,Health / Wellness,-0.34
+comment,Health / Wellness,-0.1226
+comment,Health / Wellness,-0.9022
+comment,Health / Wellness,-0.5329
+comment,Health / Wellness,0.9201
+comment,Health / Wellness,-0.875
+comment,Health / Wellness,0.6705
+comment,Health / Wellness,-0.5574
+comment,Health / Wellness,0.8313
+comment,Health / Wellness,-0.9464
+comment,Health / Wellness,0.1027
+post,Housing,-0.34
+comment,Housing,0.5574
+comment,Housing,0.8639
+comment,Housing,0.2732
+post,COVID-19,0.7845
+comment,COVID-19,0.8807
+comment,COVID-19,0.4404
+comment,COVID-19,0.0
+post,Finances,-0.5423
+comment,Finances,-0.6369
+comment,Finances,-0.296
+comment,Finances,-0.25
+comment,Finances,0.0258
+comment,Finances,0.0
+comment,Finances,0.0
+comment,Finances,0.4973
+comment,Finances,0.6908
+post,Prospective Student,0.2263
+comment,Prospective Student,0.872
+post,COVID-19,-0.6124
+comment,COVID-19,0.3182
+comment,COVID-19,-0.4939
+comment,COVID-19,0.6808
+comment,COVID-19,0.0
+comment,COVID-19,0.7906
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,0.0772
+comment,COVID-19,0.0
+post,Media,0.0
+post,Prospective Student,0.3182
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.4939
+comment,Prospective Student,0.8999
+comment,Prospective Student,0.8271
+comment,Prospective Student,0.4019
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.128
+comment,Prospective Student,0.0058
+comment,Prospective Student,0.34
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5106
+comment,Prospective Student,0.4404
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+post,Meme,0.0
+comment,Meme,0.8225
+post,Media,0.0
+comment,Media,0.0
+comment,Media,0.0
+comment,Media,-0.4404
+comment,Media,0.6486
+comment,Media,0.0
+post,COVID-19,0.0
+comment,COVID-19,0.3818
+comment,COVID-19,0.4215
+comment,COVID-19,0.0
+comment,COVID-19,0.0772
+comment,COVID-19,0.4939
+comment,COVID-19,0.4019
+post,Prospective Student,0.9893
+comment,Prospective Student,0.8955
+comment,Prospective Student,0.9817
+post,Class,0.8459
+comment,Class,0.0772
+comment,Class,-0.3962
+comment,Class,0.9565
+comment,Class,0.0
+comment,Class,-0.5994
+comment,Class,0.3612
+comment,Class,0.986
+comment,Class,0.0772
+comment,Class,0.0
+post,COVID-19,0.8232
+comment,COVID-19,0.2732
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.296
+comment,COVID-19,0.5859
+post,Employment,0.6908
+comment,Employment,0.0
+comment,Employment,0.8074
+comment,Employment,0.4133
+comment,Employment,0.0
+comment,Employment,0.6486
+post,Prospective Student,0.8402
+comment,Prospective Student,0.9972
+post,Parking,0.2263
+comment,Parking,0.4404
+post,Research,0.9946
+comment,Research,0.8555
+comment,Research,0.34
+post,Media,0.0
+comment,Media,0.6908
+comment,Media,0.0
+post,Student Organization,0.4404
+post,Employment,0.7783
+comment,Employment,0.5859
+comment,Employment,0.0
+post,Prospective Student,0.7269
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5267
+post,COVID-19,0.4404
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.3612
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.9611
+comment,Academics - Other Topics,0.8126
+comment,Academics - Other Topics,0.8074
+comment,Academics - Other Topics,-0.4939
+comment,Academics - Other Topics,0.6369
+comment,Academics - Other Topics,0.0
+post,COVID-19,-0.4404
+comment,COVID-19,0.4404
+comment,COVID-19,0.4404
+comment,COVID-19,0.9022
+comment,COVID-19,0.8805
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.9477
+comment,COVID-19,0.4019
+comment,COVID-19,0.4404
+comment,COVID-19,-0.4215
+comment,COVID-19,0.6369
+comment,COVID-19,0.7902
+comment,COVID-19,0.4404
+comment,COVID-19,0.0
+comment,COVID-19,0.4215
+comment,COVID-19,-0.1027
+comment,COVID-19,0.8387
+comment,COVID-19,0.296
+comment,COVID-19,0.6124
+post,Prospective Student,0.7269
+comment,Prospective Student,0.2263
+comment,Prospective Student,0.9081
+comment,Prospective Student,-0.3818
+comment,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.4939
+post,Class,0.25
+comment,Class,0.2263
+post,Health / Wellness,-0.5903
+comment,Health / Wellness,0.9391
+post,Housing,0.7346
+comment,Housing,0.5805
+comment,Housing,0.6115
+comment,Housing,-0.1298
+comment,Housing,0.743
+comment,Housing,0.7506
+post,Class,-0.1439
+comment,Class,-0.4019
+comment,Class,0.0
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.6249
+post,Satellite Campus,0.4404
+post,Buy / Sell,0.8214
+comment,Buy / Sell,0.0
+post,Research,0.5859
+post,Finances,0.6369
+comment,Finances,0.296
+post,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.0
+comment,Meme,0.4767
+comment,Meme,0.6179
+comment,Meme,0.6124
+post,Prospective Student,0.7659
+comment,Prospective Student,0.7851
+comment,Prospective Student,0.9745
+comment,Prospective Student,-0.4777
+comment,Prospective Student,0.7713
+comment,Prospective Student,0.8807
+comment,Prospective Student,0.7269
+comment,Prospective Student,0.8519
+comment,Prospective Student,0.7351
+comment,Prospective Student,0.7845
+comment,Prospective Student,0.6908
+comment,Prospective Student,0.2975
+comment,Prospective Student,-0.4767
+post,Housing,0.9153
+comment,Housing,0.0
+post,Finances,0.0
+comment,Finances,0.9728
+comment,Finances,0.0
+comment,Finances,0.9286
+comment,Finances,-0.4767
+comment,Finances,-0.5423
+post,Class,0.1027
+comment,Class,0.0
+post,Class,-0.128
+comment,Class,0.8074
+comment,Class,0.0
+post,Housing,0.8689
+comment,Housing,-0.6412
+comment,Housing,0.8689
+comment,Housing,0.9118
+post,Class,-0.5106
+comment,Class,0.3182
+comment,Class,-0.0258
+post,Student Organization,-0.5868
+comment,Student Organization,0.939
+comment,Student Organization,0.4588
+comment,Student Organization,0.8176
+comment,Student Organization,0.7184
+comment,Student Organization,0.7918
+post,Health / Wellness,0.0
+post,Class,-0.4847
+comment,Class,0.6249
+comment,Class,0.4215
+comment,Class,0.6908
+comment,Class,-0.6808
+comment,Class,0.7717
+comment,Class,-0.9118
+post,None,0.5859
+post,Class,0.0
+post,Food / Culture,-0.5106
+comment,Food / Culture,0.0
+comment,Food / Culture,-0.5106
+post,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.4019
+comment,COVID-19,-0.3818
+comment,COVID-19,0.0
+comment,COVID-19,-0.4588
+comment,COVID-19,-0.5106
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.7351
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,Class,0.8781
+post,Class,0.4404
+comment,Class,0.0
+post,None,0.0
+comment,None,0.0
+comment,None,0.34
+comment,None,0.0
+post,Prospective Student,0.9874
+comment,Prospective Student,0.8927
+comment,Prospective Student,0.9836
+comment,Prospective Student,0.9022
+comment,Prospective Student,0.9493
+comment,Prospective Student,0.9313
+comment,Prospective Student,0.9477
+comment,Prospective Student,0.4215
+comment,Prospective Student,0.8716
+comment,Prospective Student,0.9862
+comment,Prospective Student,0.9875
+post,Class,-0.7184
+comment,Class,-0.296
+comment,Class,-0.34
+comment,Class,0.707
+comment,Class,0.0
+post,Media,0.0
+comment,Media,-0.1531
+comment,Media,0.0
+comment,Media,0.0
+comment,Media,-0.1531
+comment,Media,0.0
+comment,Media,-0.4173
+comment,Media,0.0
+comment,Media,0.3182
+post,Academics - Other Topics,-0.1796
+comment,Academics - Other Topics,0.128
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.0
+post,Miscellaneous,0.8555
+comment,Miscellaneous,0.6353
+comment,Miscellaneous,0.6597
+comment,Miscellaneous,0.3818
+comment,Miscellaneous,0.4927
+comment,Miscellaneous,-0.1027
+comment,Miscellaneous,0.8805
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.34
+post,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.5267
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,-0.4019
+comment,Academics - Other Topics,-0.4019
+comment,Academics - Other Topics,-0.875
+comment,Academics - Other Topics,0.0
+comment,Academics - Other Topics,0.2263
+comment,Academics - Other Topics,0.6908
+post,Class,-0.2748
+comment,Class,-0.0258
+comment,Class,-0.4019
+comment,Class,0.2023
+comment,Class,0.5859
+comment,Class,-0.7984
+post,Housing,-0.5106
+comment,Housing,0.7506
+comment,Housing,-0.4939
+comment,Housing,-0.7717
+post,Prospective Student,-0.2516
+comment,Prospective Student,0.8876
+comment,Prospective Student,0.2263
+comment,Prospective Student,-0.7574
+comment,Prospective Student,-0.0258
+comment,Prospective Student,-0.4215
+comment,Prospective Student,0.3818
+comment,Prospective Student,0.0
+comment,Prospective Student,0.2047
+comment,Prospective Student,0.3818
+comment,Prospective Student,0.0
+comment,Prospective Student,0.9301
+comment,Prospective Student,0.4404
+comment,Prospective Student,0.6809
+comment,Prospective Student,0.4939
+comment,Prospective Student,0.6705
+comment,Prospective Student,0.7184
+comment,Prospective Student,-0.5423
+comment,Prospective Student,-0.1531
+comment,Prospective Student,0.4588
+comment,Prospective Student,0.6705
+comment,Prospective Student,0.0
+comment,Prospective Student,-0.5423
+post,Finances,0.0
+comment,Finances,0.8481
+comment,Finances,-0.1027
+comment,Finances,-0.1027
+comment,Finances,-0.1027
+post,Food / Culture,0.0
+comment,Food / Culture,0.8402
+comment,Food / Culture,0.4588
+comment,Food / Culture,0.6369
+comment,Food / Culture,0.5267
+comment,Food / Culture,0.7964
+comment,Food / Culture,0.0
+post,COVID-19,0.3182
+comment,COVID-19,0.4019
+comment,COVID-19,0.4939
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+post,Academics - Other Topics,0.9001
+comment,Academics - Other Topics,0.9774
+comment,Academics - Other Topics,0.0
+post,Class,0.2023
+comment,Class,0.7964
+comment,Class,0.6486
+comment,Class,-0.3818
+comment,Class,0.875
+comment,Class,0.9516
+comment,Class,0.4588
+comment,Class,0.6486
+post,COVID-19,0.0
+comment,COVID-19,0.6436
+comment,COVID-19,0.204
+post,Class,0.3384
+comment,Class,0.2263
+comment,Class,0.25
+post,Class,-0.6369
+comment,Class,0.0
+comment,Class,0.6124
+comment,Class,0.9674
+comment,Class,0.0
+post,New Student,0.4417
+comment,New Student,0.9136
+comment,New Student,0.3612
+comment,New Student,0.802
+comment,New Student,0.0
+comment,New Student,0.0
+comment,New Student,-0.5994
+comment,New Student,0.7778
+comment,New Student,0.0
+post,Prospective Student,0.8834
+comment,Prospective Student,0.5267
+comment,Prospective Student,0.25
+post,Finances,-0.847
+comment,Finances,0.9561
+comment,Finances,0.872
+comment,Finances,0.9042
+comment,Finances,0.8402
+post,Academics - Other Topics,0.3182
+comment,Academics - Other Topics,0.6249
+post,Class,0.1779
+comment,Class,0.8207
+comment,Class,0.34
+comment,Class,0.4215
+post,Prospective Student,0.0
+comment,Prospective Student,0.7717
+comment,Prospective Student,0.2732
+post,Prospective Student,0.0
+comment,Prospective Student,0.0
+comment,Prospective Student,0.8807
+comment,Prospective Student,0.872
+post,Prospective Student,0.9723
+comment,Prospective Student,0.5106
+comment,Prospective Student,-0.1531
+comment,Prospective Student,0.6915
+comment,Prospective Student,0.7717
+comment,Prospective Student,0.3182
+comment,Prospective Student,0.6808
+comment,Prospective Student,0.296
+comment,Prospective Student,0.6124
+post,Employment,0.3612
+comment,Employment,0.8016
+post,Housing,-0.3119
+comment,Housing,0.5574
+comment,Housing,0.0
+post,Degree,0.802
+comment,Degree,0.5859
+post,Buy / Sell,0.9885
+comment,Buy / Sell,0.0
+comment,Buy / Sell,0.8519
+comment,Buy / Sell,0.3182
+post,COVID-19,0.0
+comment,COVID-19,0.7076
+comment,COVID-19,0.0516
+comment,COVID-19,0.6249
+post,Social,0.7717
+comment,Social,0.0571
+comment,Social,0.8074
+post,Housing,0.0
+comment,Housing,0.0
+comment,Housing,-0.352
+comment,Housing,0.8979
+post,Media,0.0
+comment,Media,0.5994
+comment,Media,0.2732
+comment,Media,0.3612
+post,COVID-19,0.9022
+comment,COVID-19,0.9238
+comment,COVID-19,0.0
+comment,COVID-19,0.0
+comment,COVID-19,-0.4019
+post,Class,0.6597
+comment,Class,-0.128
+comment,Class,0.7845
+comment,Class,0.8074
+comment,Class,0.0
+comment,Class,0.3182
+comment,Class,0.0
+post,Finances,0.4939
+comment,Finances,0.4019
+post,Food / Culture,-0.34
+comment,Food / Culture,0.0
+comment,Food / Culture,0.0
+comment,Food / Culture,0.5719
+comment,Food / Culture,0.0772
+comment,Food / Culture,-0.1531
+comment,Food / Culture,0.7783
+post,Class,0.5267
+comment,Class,0.3612
+comment,Class,0.9136
+comment,Class,0.9531
+post,None,0.9022
+comment,None,0.7128
+comment,None,0.4939
+post,Class,0.7089
+comment,Class,0.0
+post,Food / Culture,-0.3818
+comment,Food / Culture,0.2023
+comment,Food / Culture,0.0
+post,Food / Culture,0.4404
+comment,Food / Culture,0.9186
+post,Prospective Student,0.6249
+comment,Prospective Student,0.9136
+comment,Prospective Student,0.0
+comment,Prospective Student,0.5574
+post,Housing,0.8658
+comment,Housing,0.0
+comment,Housing,0.4019
+comment,Housing,0.9666
+post,Media,0.0
+comment,Media,-0.0258
+comment,Media,0.0
+comment,Media,0.2263
+comment,Media,0.0
+comment,Media,0.3612
+comment,Media,0.4019
+comment,Media,0.0
+comment,Media,0.0
+comment,Media,0.4767
+comment,Media,0.8591
+comment,Media,0.7506
+comment,Media,0.0
+comment,Media,-0.4215
